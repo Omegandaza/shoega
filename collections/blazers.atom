@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://articlemenswear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://articlemenswear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://articlemenswear.com/collections/blazers.atom"/>
+  <title>ARTICLE</title>
+  <updated>2015-12-08T16:50:00-05:00</updated>
+  <author>
+    <name>ARTICLE</name>
+  </author>
+  <entry>
+    <id>http://articlemenswear.com/products/3661200129</id>
+    <published>2015-12-08T16:50:00-05:00</published>
+    <updated>2015-12-08T16:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/ivy-blazer-by-grayers"/>
+    <title>Ivy Blazer by Grayers</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-08_at_4.54.03_PM.png?v=1449612127" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            156.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Special details include a half-lined body in poplin, and sleeves lined with bemberg lining. This versatile jacket can be worn with a dress shirt and pants, or more casual with our Selvedge Chambray Shirt and Japanese Selvedge Denim. 75% Wool, 25% Nylon. Imported.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Article Menswear</s:tag>
+    <s:tag>Blazer</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Ivy Blazer</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sportcoat</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>S</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>M</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>L</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>XL</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2236060225</id>
+    <published>2015-10-14T18:01:00-04:00</published>
+    <updated>2015-10-14T18:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/charcoal-nailhead-freeman-suit-by-freemans-sporting-club"/>
+    <title>Charcoal Nailhead Freeman Suit by Freemans Sporting Club</title>
+    <s:type>Suit</s:type>
+    <s:vendor>Freemans Sporting Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-14_at_5.13.30_PM.png?v=1444860251" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Freemans Sporting Club<br>
+        <strong>Type: </strong>Suit<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li><span>9 OZ. ALL-SEASON SUPER 110'S ITALIAN NAILHEAD</span></li>
+<li><span>FLOATING CAMEL &amp; HORSEHAIR CANVAS</span></li>
+<li>FULL 100% BEMBERG LINING</li>
+<li><span>NOTCH LAPEL</span></li>
+<li><span>OXHORN BUTTONS ON LAPEL</span></li>
+<li><span>BASTING STITCHED SLEEVES TO ALLOW FOR WORKING BUTTONHOLES</span></li>
+<li>TWO-BUTTON, SIDE VENT</li>
+<li><span>AVAILABLE IN MADE TO MEASURE</span></li>
+<li><span>MADE IN THE USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Freemans Sporting Club</s:tag>
+    <s:tag>Nailhead</s:tag>
+    <s:tag>Suit</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2236060225</id>
+      <title>38</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>nail-fsc-38</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2236060225</id>
+      <title>40</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>nail-fsc-40</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2236060225</id>
+      <title>42</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>nail-fsc-42</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2236060225</id>
+      <title>44</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>nail-fsc-44</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2233303489</id>
+    <published>2015-10-14T11:16:00-04:00</published>
+    <updated>2015-10-14T11:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/larson-jacket-by-billy-reid"/>
+    <title>Larson Jacket by Billy Reid</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Billy Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/F15-202.4760.GRYGN-Billy-Reid-Larson-Jacket-Grey-Green_1.jpg?v=1444836009" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Reid<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="line-height: 1.5;">Notch lapel with reinforced topstitch</span></li>
+<li><span style="line-height: 1.4;">Two horn button closure</span></li>
+<li><span style="line-height: 1.4;">Patch pockets</span></li>
+<li><span style="line-height: 1.4;">Heirloom felt undercollar</span></li>
+<li><span style="line-height: 1.4;">Single back vent</span></li>
+<li><span style="line-height: 1.4;">Unlined</span></li>
+<li><span style="line-height: 1.4;">100% Virigin wool</span></li>
+<li><span style="line-height: 1.4;">Made in Italy</span></li>
+<li><span style="line-height: 1.4;">Dry clean</span></li>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>202-4760</s:tag>
+    <s:tag>Billy Reid</s:tag>
+    <s:tag>Blazer</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Larson Jacket</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Suit</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233303489</id>
+      <title>38</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>202-4760-38</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233303489</id>
+      <title>40</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>202-4760-40</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233303489</id>
+      <title>42</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>202-4760-42</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233303489</id>
+      <title>44</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>202-4760-44</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/418003761</id>
+    <published>2015-08-21T10:31:00-04:00</published>
+    <updated>2015-08-21T10:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/lexington-jacket-by-billy-reid"/>
+    <title>Lexington Jacket by Billy Reid</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Billy Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-08-21_at_10.24.50_AM.png?v=1440167340" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Reid<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            315.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This off-white sport jacket originated in Italy, where it was expertly tailored, lined three-quarters of the way through, and polished off with bright Mother of Pearl buttons.</p>
+<ul>
+<li>Made in Italy</li>
+<li>53% linen, 47% cotton</li>
+<li>3/4 lined body</li>
+<li>Fully lined sleeves</li>
+<li>Notch lapel</li>
+<li>Flap-covered pockets and welted chest pocket</li>
+<li>2 Mother of Pearl buttons for front stance</li>
+<li>Darted front</li>
+<li>Double vent back</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blazer</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Lexington Jacket</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Suit</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/418003761</id>
+      <title>38</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku>202-1685-38R</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/418003761</id>
+      <title>40</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku>202-1685-40R</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/418003761</id>
+      <title>42</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku>202-1685-42R</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/418003761</id>
+      <title>44</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku>202-1685-44R</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/453278617</id>
+    <published>2015-04-09T21:18:00-04:00</published>
+    <updated>2015-04-09T21:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/the-freeman-all-season-navy-suit-by-freemans-sporting-club"/>
+    <title>The Freeman All Season Navy Suit by Freemans Sporting Club</title>
+    <s:type>Suit</s:type>
+    <s:vendor>Freemans Sporting Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Freemans_Navy_Suit.jpg?v=1428669195" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Freemans Sporting Club<br>
+        <strong>Type: </strong>Suit<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This is the definitive American suit, perfect for casual and formal occasions. Its made from 9 oz. worsted Super 110's cloth and woven by the oldest family-owned mill in Italy--it's ideal to wear year-round. This fully canvassed suit is ideal to wear year-round has high armholes for easy movement and comfort. This is a modern fit, well-tailored without being too narrow. The trousers have a plain front and a zipper closure. Please note: The trousers are sized down 6 from the jacket size (36 jacket means 30 trouser).</p>
+<ul>
+<li>ALL SEASON, 9 OZ. ITALIAN SUPER 110 WORSTED WOOL</li>
+<li>100% BEMBERG LINING</li>
+<li>OXHORN BUTTONS ON LAPEL</li>
+<li>BASTING STITCHES ON SLEEVE TO ALLOW FOR WORKING BUTTONHOLES</li>
+<li>FULLY CANVASED </li>
+<li>TWO-BUTTON, SIDE-VENT </li>
+<li>MADE IN THE USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chambray</s:tag>
+    <s:tag>Freemans Sporting Club</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Suit</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/453278617</id>
+      <title>38</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>190101-38</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/453278617</id>
+      <title>40</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>191010-40</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/453278617</id>
+      <title>42</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>191010-42</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/453278617</id>
+      <title>44</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>191010-44</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/315518725</id>
+    <published>2014-05-20T12:44:00-04:00</published>
+    <updated>2014-05-20T12:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/the-granpa-blazer-by-gant-rugger"/>
+    <title>The Granpa Blazer by Gant Rugger</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2014-05-17_at_11.37.22_AM.png?v=1400604899" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            357.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The Granpa Blazer in a cotton and silk blend with a slim cut, shorter length, and natural shoulder, featuring a three-button closure, front pockets, and a double back vent.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blazer</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Sportcoat</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/315518725</id>
+      <title>38R</title>
+      <s:price currency="USD">357.00</s:price>
+      <s:sku>76909-38</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/315518725</id>
+      <title>40R</title>
+      <s:price currency="USD">357.00</s:price>
+      <s:sku>76909-40</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/315518725</id>
+      <title>42R</title>
+      <s:price currency="USD">357.00</s:price>
+      <s:sku>76909-42</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/315518725</id>
+      <title>44R</title>
+      <s:price currency="USD">357.00</s:price>
+      <s:sku>76909-44</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

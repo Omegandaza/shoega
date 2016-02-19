@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://articlemenswear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://articlemenswear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://articlemenswear.com/collections/pants.atom"/>
+  <title>ARTICLE</title>
+  <updated>2015-10-14T11:38:00-04:00</updated>
+  <author>
+    <name>ARTICLE</name>
+  </author>
+  <entry>
+    <id>http://articlemenswear.com/products/2233518721</id>
+    <published>2015-10-14T11:38:00-04:00</published>
+    <updated>2015-10-14T11:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/army-green-moleskin-pant-by-billy-reid"/>
+    <title>Army Green Moleskin Pant by Billy Reid</title>
+    <s:type>Pants</s:type>
+    <s:vendor>Billy Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/F15-M302.2410.ARGN-Billy-Reid-Moleskin-Slim-Jean-Army-Green_1.jpg?v=1444837214" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Reid<br>
+        <strong>Type: </strong>Pants<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li><span style="line-height: 1.4;">Slim cut</span></li>
+<li><span style="line-height: 1.4;">Mid rise</span></li>
+<li><span style="line-height: 1.4;">Slim through the thigh and tapered from the knee down</span></li>
+<li><span style="line-height: 1.4;">Zip fly</span></li>
+<li><span style="line-height: 1.4;">Copper rivets</span></li>
+<li><span style="line-height: 1.4;">Five pocket</span></li>
+<li><span style="line-height: 1.4;">Back right welt pocket</span></li>
+<li><span style="line-height: 1.4;">Back left patch pocket</span></li>
+<li><span style="line-height: 1.4;">Heavyweight moleskin</span></li>
+<li><span style="line-height: 1.4;">100% Cotton</span></li>
+<li><span style="line-height: 1.4;">Made in USA</span></li>
+<li><span style="line-height: 1.4;">Machine wash</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Army Green</s:tag>
+    <s:tag>Billy Reid</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Moleskin Pant</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233518721</id>
+      <title>30</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>M302-2410-30</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233518721</id>
+      <title>32</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>M302-2411-32</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233518721</id>
+      <title>34</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>M302-2412-34</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233518721</id>
+      <title>36</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>M302-2413-36</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2233532225</id>
+    <published>2015-10-14T11:38:00-04:00</published>
+    <updated>2015-10-14T11:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/dark-walnut-moleskin-pant-by-billy-reid"/>
+    <title>Dark Walnut Moleskin Pant by Billy Reid</title>
+    <s:type>Pants</s:type>
+    <s:vendor>Billy Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/F15-M302.2410.ARGN-Billy-Reid-Moleskin-Slim-Jean-Army-Green_1_e438bead-ea24-45a2-945c-d6af3c937901.jpg?v=1444837435" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Reid<br>
+        <strong>Type: </strong>Pants<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li><span style="line-height: 1.4;">Slim cut</span></li>
+<li><span style="line-height: 1.4;">Mid rise</span></li>
+<li><span style="line-height: 1.4;">Slim through the thigh and tapered from the knee down</span></li>
+<li><span style="line-height: 1.4;">Zip fly</span></li>
+<li><span style="line-height: 1.4;">Copper rivets</span></li>
+<li><span style="line-height: 1.4;">Five pocket</span></li>
+<li><span style="line-height: 1.4;">Back right welt pocket</span></li>
+<li><span style="line-height: 1.4;">Back left patch pocket</span></li>
+<li><span style="line-height: 1.4;">Heavyweight moleskin</span></li>
+<li><span style="line-height: 1.4;">100% Cotton</span></li>
+<li><span style="line-height: 1.4;">Made in USA</span></li>
+<li><span style="line-height: 1.4;">Machine wash</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Billy Reid</s:tag>
+    <s:tag>Dark Walnut</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Moleskin Pant</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233532225</id>
+      <title>30</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>M302-2410-30</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233532225</id>
+      <title>32</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>M302-2411-32</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233532225</id>
+      <title>34</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>M302-2412-34</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233532225</id>
+      <title>36</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>M302-2413-36</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2151363649</id>
+    <published>2015-10-01T11:50:00-04:00</published>
+    <updated>2015-10-01T11:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/officer-trouser-by-rogue-territory"/>
+    <title>Officer Trouser by Rogue Territory</title>
+    <s:type>Bottoms</s:type>
+    <s:vendor>Rogue Territory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/rogue-territory-lost-and-found-1608-officer-trouser-bronze-selvedge-1.jpg?v=1443714796" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Rogue Territory<br>
+        <strong>Type: </strong>Bottoms<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>- One piece button fly</span><br><span>- Slash front pockets</span><br><span>- Hidden coin pocket inside front right pocket</span><br><span>- Flap on back welt pocket / designed to be worn tucked in or out</span><br><span>- Single needle continuous stitch on waistband</span><br><span>- Belt loops sewn into the waistband</span><br><span>- Silk screened front pocket lining</span><br><span>- Handmade in downtown Los Angeles, Calif.</span></p>
+<meta charset="utf-8">
+<p><strong>FIT - </strong>Slim Taper Leg, Mid-Rise</p>
+<p><strong>FABRIC - </strong>﻿10oz Japanese selvedge twill from the famous Okayama Prefecture</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Japanese Selvedge</s:tag>
+    <s:tag>Officer Trouser</s:tag>
+    <s:tag>Rogue Territory</s:tag>
+    <s:tag>Selvedge</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151363649</id>
+      <title>29</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>1608-29</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151363649</id>
+      <title>30</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>1608-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151363649</id>
+      <title>31</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>1608-31</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151363649</id>
+      <title>32</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>1608-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151363649</id>
+      <title>33</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>1608-33</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151363649</id>
+      <title>34</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>1608-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1911020993</id>
+    <published>2015-08-21T16:23:00-04:00</published>
+    <updated>2015-08-21T16:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/quilted-pants-by-gant-rugger"/>
+    <title>Quilted Pants by Gant Rugger</title>
+    <s:type>Bottoms</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-08-21_at_4.20.26_PM.jpg?v=1440188846" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Bottoms<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>- 100% cotton</span><br><span>- cream drawstring at waist</span><br><span>- quilted with a dropped needle technique</span><br><span>- gold finish eyelets at waistband</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>206122</s:tag>
+    <s:tag>Bottoms</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Quilted Pants</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1911020993</id>
+      <title>S</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>206122S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1911020993</id>
+      <title>M</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>206122M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1911020993</id>
+      <title>L</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>206122L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1911020993</id>
+      <title>XL</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>206122XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/954962753</id>
+    <published>2015-05-26T13:01:00-04:00</published>
+    <updated>2015-05-26T13:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/khaki-chambray-short-by-apolis"/>
+    <title>Khaki Chambray Short by Apolis</title>
+    <s:type>Apolis</s:type>
+    <s:vendor>Shorts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-05-26_at_1.14.34_PM.png?v=1432660295" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Shorts<br>
+        <strong>Type: </strong>Apolis<br>
+        <strong>Price: </strong>
+            103.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handcrafted in California near Apolis' Los Angeles headquarters, this short helps to create local employment. This 9 oz. Japanese chambray fabric is durable but breathable and also stone washed to achieve a softened comfortable feel. The cotton chambray will wear according to use, lightening in color as it is exposed to the elements. This short is made to last you through years of wear and will only look better with time.</span></p>
+<meta charset="utf-8">
+<h6>MANUFACTURING ORIGIN</h6>
+<p><em>California, USA</em></p>
+<h6>GARMENT CONTENT</h6>
+<p><em>100% Cotton Japanese Chambray - Milled and grown in Japan</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apolis</s:tag>
+    <s:tag>Chambray</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/954962753</id>
+      <title>30</title>
+      <s:price currency="USD">103.00</s:price>
+      <s:sku>US-LAT33.7739-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/954962753</id>
+      <title>32</title>
+      <s:price currency="USD">103.00</s:price>
+      <s:sku>US-LAT33.7739-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/954962753</id>
+      <title>34</title>
+      <s:price currency="USD">103.00</s:price>
+      <s:sku>US-LAT33.7739-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/954962753</id>
+      <title>36</title>
+      <s:price currency="USD">103.00</s:price>
+      <s:sku>US-LAT33.7739-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/428545689</id>
+    <published>2015-03-17T15:55:00-04:00</published>
+    <updated>2015-03-17T15:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/ripstop-bellows-pant-by-saturdays-nyc-1"/>
+    <title>Ripstop Bellows Pant by Saturdays NYC</title>
+    <s:type>Pants</s:type>
+    <s:vendor>Saturdays NYC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/1-sp-15-production3385.1.jpg?v=1426622165" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saturdays NYC<br>
+        <strong>Type: </strong>Pants<br>
+        <strong>Price: </strong>
+            102.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% Cotton Ripstop</li>
+<li>Coated Twill</li>
+<li>Standard Slim Fit</li>
+<li>Zip Fly</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COTTON</s:tag>
+    <s:tag>Pants</s:tag>
+    <s:tag>RIPSTOP</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/428545689</id>
+      <title>30</title>
+      <s:price currency="USD">102.40</s:price>
+      <s:sku>115RIP-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/428545689</id>
+      <title>32</title>
+      <s:price currency="USD">102.40</s:price>
+      <s:sku>115RIP-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/428545689</id>
+      <title>34</title>
+      <s:price currency="USD">102.40</s:price>
+      <s:sku>115RIP-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/428545689</id>
+      <title>36</title>
+      <s:price currency="USD">102.40</s:price>
+      <s:sku>115RIP-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/428540669</id>
+    <published>2015-03-17T15:36:00-04:00</published>
+    <updated>2015-03-17T15:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/ripstop-bellows-pant-by-saturdays-nyc"/>
+    <title>Ripstop Bellows Pant by Saturdays NYC</title>
+    <s:type>Pants</s:type>
+    <s:vendor>Saturdays NYC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/4-sp-15-production3389.1.jpg?v=1426622086" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saturdays NYC<br>
+        <strong>Type: </strong>Pants<br>
+        <strong>Price: </strong>
+            102.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% Cotton Ripstop</li>
+<li>Coated Twill</li>
+<li>Standard Slim Fit</li>
+<li>Zip Fly</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COTTON</s:tag>
+    <s:tag>Pants</s:tag>
+    <s:tag>RIPSTOP</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/428540669</id>
+      <title>30</title>
+      <s:price currency="USD">102.40</s:price>
+      <s:sku>115RIP-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/428540669</id>
+      <title>32</title>
+      <s:price currency="USD">102.40</s:price>
+      <s:sku>115RIP-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/428540669</id>
+      <title>34</title>
+      <s:price currency="USD">102.40</s:price>
+      <s:sku>115RIP-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/428540669</id>
+      <title>36</title>
+      <s:price currency="USD">102.40</s:price>
+      <s:sku>115RIP-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/416277305</id>
+    <published>2015-02-20T18:11:00-05:00</published>
+    <updated>2015-02-20T18:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/tommy-chino-short-by-saturdays-nyc-2"/>
+    <title>Tommy Chino Short by Saturdays NYC</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Saturdays NYC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/sp-15-production3322.1.jpg?v=1424473881" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saturdays NYC<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Cotton/Poly Coated Twill</li>
+<li>Slim fit</li>
+<li>Zip Fly</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Twill</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416277305</id>
+      <title>30</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115TOMMY-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416277305</id>
+      <title>32</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115TOMMY-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416277305</id>
+      <title>34</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115TOMMY-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416277305</id>
+      <title>36</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115TOMMY-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/416274697</id>
+    <published>2015-02-20T18:01:00-05:00</published>
+    <updated>2015-02-20T18:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/tommy-chino-short-by-saturdays-nyc-1"/>
+    <title>Tommy Chino Short by Saturdays NYC</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Saturdays NYC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/sp-15-production3320.1.jpg?v=1424473834" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saturdays NYC<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Cotton/Poly Coated Twill</li>
+<li>Slim fit</li>
+<li>Zip Fly</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Twill</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416274697</id>
+      <title>30</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115TOMMY-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416274697</id>
+      <title>32</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115TOMMY-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416274697</id>
+      <title>34</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115TOMMY-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416274697</id>
+      <title>36</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115TOMMY-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/416264493</id>
+    <published>2015-02-20T17:17:00-05:00</published>
+    <updated>2015-02-20T17:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/evan-short-by-saturdays-nyc"/>
+    <title>Evan Short by Saturdays NYC</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Saturdays NYC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/1-sp_15_evan-copy.5.jpg?v=1424470783" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saturdays NYC<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% Cotton Ripstop</li>
+<li>Fatigue Shorts</li>
+<li>Front patch pockets</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416264493</id>
+      <title>30</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115EVAN-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416264493</id>
+      <title>32</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115EVAN-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416264493</id>
+      <title>34</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115EVAN-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/416264493</id>
+      <title>36</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>115EVAN-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

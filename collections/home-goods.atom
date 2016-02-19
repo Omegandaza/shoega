@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://articlemenswear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://articlemenswear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://articlemenswear.com/collections/home-goods.atom"/>
+  <title>ARTICLE</title>
+  <updated>2015-11-19T14:18:00-05:00</updated>
+  <author>
+    <name>ARTICLE</name>
+  </author>
+  <entry>
+    <id>http://articlemenswear.com/products/412308221</id>
+    <published>2015-11-19T14:18:00-05:00</published>
+    <updated>2015-11-19T14:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/1lb-campfire-candle-by-good-candle-bk-1"/>
+    <title>1lb Spruce Candle by Good Candle BK</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Good Candle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/SPRUCE_POUND_sm.jpg?v=1447961499" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Good Candle<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul id="yui_3_17_2_1_1447960741571_574">
+<li><span>We love heading out to the mountains to get some fresh air and take a walk through the pines.</span></li>
+<li><span>Made from 100% American grown soy wax and a braided cotton wick for a clean, even burn.</span></li>
+<li><span>1lb</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle</s:tag>
+    <s:tag>Good Candle</s:tag>
+    <s:tag>Home Goods</s:tag>
+    <s:tag>Spruce</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/412308221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>gc-spruce1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/412309297</id>
+    <published>2015-11-19T14:17:00-05:00</published>
+    <updated>2015-11-19T14:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/1lb-washboard-candle-by-good-candle-bk"/>
+    <title>1lb Washboard Candle by Good Candle BK</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Good Candle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/WASHBOARD_POUND.jpg?v=1423862417" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Good Candle<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li><span>Experience the freshness of an old fashioned country line dry with an herbal, citrus clean.</span></li>
+<li><span>Fragrance notes: citrus top, floral middle and a gorgeous woody amber base note. Smells like freshly line-dried laundry in the Summertime. </span></li>
+<li><span>Made from 100% American grown soy wax and a braided cotton wick for a clean, even burn.</span></li>
+<li><span>1lb</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle</s:tag>
+    <s:tag>Home Goods</s:tag>
+    <s:tag>Washboard</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/412309297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>gc-washboard1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/412302545</id>
+    <published>2015-11-19T14:12:00-05:00</published>
+    <updated>2015-11-19T14:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/1lb-campfire-candle-by-good-candle-bk"/>
+    <title>1lb Campfire Candle by Good Candle BK</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Good Candle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/CAMPFIRE_POUND.jpg?v=1423862761" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Good Candle<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul id="yui_3_17_2_1_1423861484405_620">
+<li><span>Sometimes you just have to get out of the city and build a raging fire.  This will take you there in the meantime.</span></li>
+<li><span>Fragrance notes: It smells just like camping.</span></li>
+<li><span>Made from 100% American grown soy wax and a braided cotton wick for a clean, even burn.</span></li>
+<li><span>1 lb.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Campfire</s:tag>
+    <s:tag>Candle</s:tag>
+    <s:tag>Home Goods</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/412302545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>gc-campfire1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/412819253</id>
+    <published>2015-02-14T14:57:00-05:00</published>
+    <updated>2015-02-14T14:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/coaster-set-by-tanner-goods-1"/>
+    <title>Coaster Set by Tanner Goods</title>
+    <s:type>Home Goods</s:type>
+    <s:vendor>Tanner Goods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/FW13-Coasters-Product-8_1024x1024_4d99e965-2493-4aad-a4e4-f8b7ab2374e5.jpg?v=1423943880" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Tanner Goods<br>
+        <strong>Type: </strong>Home Goods<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Whatever your beverage of choice may be, Tanner has you (and your table) covered. Let the leather show some age instead of that nice teak coffee table in your living room.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Home Goods</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/412819253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>coast-n</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/412819017</id>
+    <published>2015-02-14T14:56:00-05:00</published>
+    <updated>2015-02-14T14:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/coaster-set-by-tanner-goods"/>
+    <title>Coaster Set by Tanner Goods</title>
+    <s:type>Home Goods</s:type>
+    <s:vendor>Tanner Goods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/FW13-Coasters-Product-14_1024x1024_345f2bba-d3aa-444c-8d6c-8198319dacba.jpg?v=1423943790" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Tanner Goods<br>
+        <strong>Type: </strong>Home Goods<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Whatever your beverage of choice may be, Tanner has you (and your table) covered. Let the leather show some age instead of that nice teak coffee table in your living room.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Home Goods</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/412819017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>coast-cog</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/373240617</id>
+    <published>2014-10-29T12:43:00-04:00</published>
+    <updated>2014-10-29T12:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/dot-wool-throw-by-faribault-1"/>
+    <title>Dot Wool Throw by Faribault</title>
+    <s:type>Blankets</s:type>
+    <s:vendor>Faribault</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2014-10-29_at_12.41.14_PM.png?v=1414601083" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Faribault<br>
+        <strong>Type: </strong>Blankets<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div class="colleft subnav">
+<div class="accordion_white">
+<div>
+<meta charset="utf-8">
+<div class="colleft subnav">
+<div class="accordion_white">
+<div>
+<meta charset="utf-8">
+<div class="product-name">
+<p>Faribault Woolen Mill has long been sought to create lasting products for great American businesses. The Dot Throw is an example of such partnerships. In the 1950s, the mill designed a memorable airline blanket that has now been re-colored and re-constructed in this contemporary aesthetic.</p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><span>- Dimensions: 50" x 72" </span><br><span>- 100% Merino wool</span><br><span>- Machine wash/dry </span><br><span>- MADE IN AMERICA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blankets</s:tag>
+    <s:tag>Home Goods</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/373240617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>09738</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

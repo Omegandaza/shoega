@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://articlemenswear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://articlemenswear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://articlemenswear.com/collections/outerwear.atom"/>
+  <title>ARTICLE</title>
+  <updated>2015-12-09T19:13:00-05:00</updated>
+  <author>
+    <name>ARTICLE</name>
+  </author>
+  <entry>
+    <id>http://articlemenswear.com/products/3668856769</id>
+    <published>2015-12-09T19:13:00-05:00</published>
+    <updated>2015-12-09T19:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/birch-boiled-wool-blazer-by-grayers"/>
+    <title>Birch Boiled Wool Blazer by Grayers</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-09_at_7.17.02_PM.png?v=1449706788" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            137.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Grayers hybrid interpretation of a lapel blazer, featuring a rounded turned-down collar and shaped into a "blazer", is crafted with boiled wool, a technique that results in a densely finished knitted fabric. Unlike a sweater, it is then cut and sewn into a jacket. 50% Wool 50% Polyester. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boiled Wool</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>S</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>M</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>L</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>XL</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>XXL</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-5</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3668716225</id>
+    <published>2015-12-09T18:55:00-05:00</published>
+    <updated>2015-12-09T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/elliot-wool-quilted-jacket-by-grayers"/>
+    <title>Elliot Wool Quilted Jacket by Grayers</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-08_at_7.33.49_PM.png?v=1449705496" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The Elliot Wool Quilted Jacket is crafted in a rich wool herringbone tweed and woven in loden and olive tones. It features multiple large patch pockets like a traditional hunting jacket. It's expertly lined with a soft nylon shell and is finished with snap side vents. 75% Wool 25% Nylon. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Elliot Wool Quilted Jacket</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668716225</id>
+      <title>S</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>J015A15SELT-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668716225</id>
+      <title>M</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>J015A15SELT-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668716225</id>
+      <title>L</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>J015A15SELT-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668716225</id>
+      <title>XL</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>J015A15SELT-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3661200129</id>
+    <published>2015-12-08T16:50:00-05:00</published>
+    <updated>2015-12-08T16:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/ivy-blazer-by-grayers"/>
+    <title>Ivy Blazer by Grayers</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-08_at_4.54.03_PM.png?v=1449612127" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            156.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Special details include a half-lined body in poplin, and sleeves lined with bemberg lining. This versatile jacket can be worn with a dress shirt and pants, or more casual with our Selvedge Chambray Shirt and Japanese Selvedge Denim. 75% Wool, 25% Nylon. Imported.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Article Menswear</s:tag>
+    <s:tag>Blazer</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Ivy Blazer</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sportcoat</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>S</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>M</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>L</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>XL</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3661796865</id>
+    <published>2015-12-08T16:50:00-05:00</published>
+    <updated>2015-12-08T16:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/birch-shawl-cardigan-by-grayers"/>
+    <title>Birch Shawl Cardigan by Grayers</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-08_at_5.04.53_PM.png?v=1449618235" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>It's a Grayers classic and it's back. Denim-colored compact french terry is crafted into a refined shawl collar cardigan. It's the wear everywhere, everyday casual jacket. Complete with special details like a plaid slub poplin yoke and half moon. 100% Cotton. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Article Menswear</s:tag>
+    <s:tag>Birch Shawl Cardigan</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Knit</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Shawl Cardigan</s:tag>
+    <s:tag>Sweater</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661796865</id>
+      <title>S</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>K013A15RYN-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661796865</id>
+      <title>M</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>K013A15RYN-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661796865</id>
+      <title>L</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>K013A15RYN-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661796865</id>
+      <title>XL</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>K013A15RYN-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3641704641</id>
+    <published>2015-12-04T18:57:00-05:00</published>
+    <updated>2015-12-04T18:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/jacquard-track-jacket-by-billy-reid"/>
+    <title>Jacquard Track Jacket by Billy Reid</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Billy Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-04_at_6.44.07_PM.png?v=1449273544" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Reid<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Jacquard stitch body</p>
+<p>Full zip with leather pull</p>
+<p>Contrast pockets, cuffs and collar</p>
+<p>85% Cotton, 15% polyester</p>
+<p>Imported</p>
+<p>Machine wash</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Billy Reid</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Jacquard Track Jacket</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3641704641</id>
+      <title>S</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>jaq-f-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3641704641</id>
+      <title>M</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>jaq-f-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3641704641</id>
+      <title>L</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>jaq-f-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3641704641</id>
+      <title>XL</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>jaq-f-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3604257729</id>
+    <published>2015-11-28T17:08:00-05:00</published>
+    <updated>2015-11-28T17:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/alpes-parka-by-a-p-c"/>
+    <title>Alpes Parka by A.P.C.</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-11-28_at_4.01.33_PM.png?v=1448749241" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            577.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Water repellent Italian cotton gabardine. Straight cut. High buttoned collar with large hood. Two-way zip closure under buttoned flap. Piped raglan button-flap pockets. On-seam side pockets. Pleat and slit at wrist. Sewn-on cuff adjusts with buttoned tab. Piped inside pocket. Removable button-on lining in faux sheepskin. Quilted sleeve lining. Edges and seams of removable lining trimmed in white bias binding. Napped lining. 100% Cotton. Professional cleaning only.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Alpes Parka</s:tag>
+    <s:tag>APC</s:tag>
+    <s:tag>Article</s:tag>
+    <s:tag>Article Menswear</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3604257729</id>
+      <title>S</title>
+      <s:price currency="USD">577.00</s:price>
+      <s:sku>alpespark-1</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3604257729</id>
+      <title>M</title>
+      <s:price currency="USD">577.00</s:price>
+      <s:sku>alpespark-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3604257729</id>
+      <title>L</title>
+      <s:price currency="USD">577.00</s:price>
+      <s:sku>alpespark-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3604257729</id>
+      <title>XL</title>
+      <s:price currency="USD">577.00</s:price>
+      <s:sku>alpespark-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2333799553</id>
+    <published>2015-10-27T15:51:00-04:00</published>
+    <updated>2015-10-27T15:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/lewis-long-jacket-by-a-p-c"/>
+    <title>Lewis Long Coat by A.P.C.</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-27_at_3.29.24_PM.png?v=1445975869" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            516.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Italian double face wool blend. Tailored collar. Undercollar in thin felt. Front buttoning. Three buttons. Piped flap pockets. Single vent. Piped inside pocket. Partial lining. Bias trim inside. Buttons in horn and powdered horn. Napped lining. Mid-thigh length. 80% Wool. 20% Polyamide. Professional cleaning only.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>Driver Coat</s:tag>
+    <s:tag>Lewis Long Coat</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333799553</id>
+      <title>S</title>
+      <s:price currency="USD">516.00</s:price>
+      <s:sku>lewislong-n-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333799553</id>
+      <title>M</title>
+      <s:price currency="USD">516.00</s:price>
+      <s:sku>lewislong-n-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333799553</id>
+      <title>L</title>
+      <s:price currency="USD">516.00</s:price>
+      <s:sku>lewislong-n-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333799553</id>
+      <title>XL</title>
+      <s:price currency="USD">516.00</s:price>
+      <s:sku>lewislong-n-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2287837313</id>
+    <published>2015-10-21T12:09:00-04:00</published>
+    <updated>2015-10-21T12:09:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/gillet-vest-by-deus"/>
+    <title>Gillet Vest by Deus</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Deus Ex Machina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-21_at_12.11.06_PM.png?v=1445446018" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Deus Ex Machina<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This regular padded vest features chest pockets, snap button hardwear and script chest embroidery, with 60% cotton and 40% polyester fabrication.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deus Ex Machina</s:tag>
+    <s:tag>Gillet Vest</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Vest</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2287837313</id>
+      <title>S</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>gillet-v-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2287837313</id>
+      <title>M</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>gillet-v-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2287837313</id>
+      <title>L</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>gillet-v-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2287837313</id>
+      <title>XL</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>gillet-v-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2003314369</id>
+    <published>2015-10-14T18:19:00-04:00</published>
+    <updated>2015-10-14T18:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/camp-shirt-by-freemans-sporting-club"/>
+    <title>Camp Shirt by Freemans Sporting Club</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Freemans Sporting Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-14_at_6.14.02_PM.png?v=1444860959" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Freemans Sporting Club<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Camp Shirt is the perfect versatile layering piece for the season. Made from 100% Shetland Wool woven by the 175-year old English Mill, Abraham Moon and Sons.  This shirt features functional details like side-entry hand pockets and is finished with genuine horn buttons</p>
+<ul>
+<li>MADE IN NYC</li>
+<li>100% WOOL</li>
+<li>SIDE-ENTRY HAND POCKETS</li>
+<li>HAND-CUT OXHORN BUTTONS</li>
+<li>WASH COLD; TUMBLE DRY LOW</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camp Shirt</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Freemans Sporting Club</s:tag>
+    <s:tag>FW15</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>NYC</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>USA</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2003314369</id>
+      <title>S</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>FSCA-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2003314369</id>
+      <title>M</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>FSCA-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2003314369</id>
+      <title>L</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>FSCA-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2003314369</id>
+      <title>XL</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>FSCA-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2003435905</id>
+    <published>2015-10-14T18:08:00-04:00</published>
+    <updated>2015-10-14T18:08:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/isle-of-man-jacket-by-freemans-sporting-club"/>
+    <title>Isle of Man Jacket by Freemans Sporting Club</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Freemans Sporting Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-14_at_6.07.31_PM.png?v=1444860420" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Freemans Sporting Club<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            524.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>MADE IN NYC</li>
+<li>MILSPEC 8.25 OZ. WAX COTTON SHELL </li>
+<li><span>MILSPEC 18 OZ. MELTON WOOL LINING</span></li>
+<li><span><span>WATER &amp; WIND RESISTANT </span></span></li>
+<li><span><span>6 EXTERNAL POCKETS / 1 INTERNAL POCKET</span></span></li>
+<li><span><span>REINFORCED LEATHER SNAP WASHERS</span></span></li>
+<li>CUSTOM HARDWARE ON SLEEVES AND STORM FLAP</li>
+<li><span>2-WAY IDEAL ZIPPER</span></li>
+<li><span>DRAWSTRING ADJUSTABLE HOOD AND WAIST</span></li>
+<li><span>WIPE CLEAN, DO NOT WASH OR DRY CLEAN</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Freemans Sporting Club</s:tag>
+    <s:tag>FW15</s:tag>
+    <s:tag>Isle of Man</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>NYC</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>USA</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2003435905</id>
+      <title>S</title>
+      <s:price currency="USD">524.00</s:price>
+      <s:sku>FSCIOM-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2003435905</id>
+      <title>M</title>
+      <s:price currency="USD">524.00</s:price>
+      <s:sku>FSCIOM-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2003435905</id>
+      <title>L</title>
+      <s:price currency="USD">524.00</s:price>
+      <s:sku>FSCIOM-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2003435905</id>
+      <title>XL</title>
+      <s:price currency="USD">524.00</s:price>
+      <s:sku>FSCIOM-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2233992129</id>
+    <published>2015-10-14T12:18:00-04:00</published>
+    <updated>2015-10-14T12:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/bond-peacoat-by-billy-reid"/>
+    <title>Bond Peacoat by Billy Reid</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Billy Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/F15-203.2113.CH-Billy-Reid-Bond-Peacoat-Charcoal_1.jpg?v=1444841853" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Reid<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            556.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="line-height: 1.5;">Double breasted overcoat</span></li>
+<li><span style="line-height: 1.4;">Horn buttons</span></li>
+<li><span style="line-height: 1.4;">Leather under collar and locker loop</span></li>
+<li><span style="line-height: 1.4;">Unlined</span></li>
+<li><span style="line-height: 1.4;">Single vent</span></li>
+<li><span style="line-height: 1.4;">90% Wool, 10% nylon</span></li>
+<li><span style="line-height: 1.4;">Made in Italy</span></li>
+<li><span style="line-height: 1.4;">Dry clean</span></li>
+</ul>
+<span style="line-height: 1.4;"></span><meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Billy Reid</s:tag>
+    <s:tag>Bond Peacoat</s:tag>
+    <s:tag>Charcoal</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233992129</id>
+      <title>S</title>
+      <s:price currency="USD">556.00</s:price>
+      <s:sku>203-2113-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233992129</id>
+      <title>M</title>
+      <s:price currency="USD">556.00</s:price>
+      <s:sku>203-2114-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233992129</id>
+      <title>L</title>
+      <s:price currency="USD">556.00</s:price>
+      <s:sku>203-2115-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2233992129</id>
+      <title>XL</title>
+      <s:price currency="USD">556.00</s:price>
+      <s:sku>203-2116-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2065606977</id>
+    <published>2015-09-15T13:11:34-04:00</published>
+    <updated>2015-09-15T13:11:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/bravo-overshirt-jacket-by-deus"/>
+    <title>Bravo Overshirt Jacket by Deus</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Deus Ex Machina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/36721561_031_d.jpg?v=1442336995" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Deus Ex Machina<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Military-inspired standard-fit shirt jacket from Deus Ex Machina. Woven cotton construction features a front button-down closure with pointed collar and four flap pockets at the front body finished with adjustable button sleeve cuffs and a curved hemline. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bravo Overshirt</s:tag>
+    <s:tag>Deus Ex Machina</s:tag>
+    <s:tag>Fall 15</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2065606977</id>
+      <title>S</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>DMW56235-ARM-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2065606977</id>
+      <title>M</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>DMW56235-ARM-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2065606977</id>
+      <title>L</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>DMW56235-ARM-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2065606977</id>
+      <title>XL</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>DMW56235-ARM-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1981063425</id>
+    <published>2015-09-02T11:35:00-04:00</published>
+    <updated>2015-09-02T11:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/felted-knit-varsity-jacket-by-todd-synder"/>
+    <title>Felted Knit Varsity Jacket by Todd Snyder</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Todd Snyder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-09-02_at_11.27.27_AM.png?v=1441207998" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Todd Snyder<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            206.00 - 295.00
+            <a href="http://articlemenswear.com/products/felted-knit-varsity-jacket-by-todd-synder">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>An Italian-crafted varsity jacket gets an elevated update from soft, felted wool construction for a sporty-luxe look that's perfect for the cooler weather.</span>
+<ul class="style-features">
+<li>Front zip closure.</li>
+<li>Front pockets.</li>
+<li>Long sleeves.</li>
+<li>Ribbed collar, cuffs and hem.</li>
+<li>100% wool.</li>
+<li>Dry clean.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Felted Knit Varsity Jacket</s:tag>
+    <s:tag>KN1176758</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Todd Snyder</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1981063425</id>
+      <title>S</title>
+      <s:price currency="USD">206.00</s:price>
+      <s:sku>KN1176758-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1981063425</id>
+      <title>M</title>
+      <s:price currency="USD">206.00</s:price>
+      <s:sku>KN1176758-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1981063425</id>
+      <title>L</title>
+      <s:price currency="USD">295.00</s:price>
+      <s:sku>KN1176758-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1981063425</id>
+      <title>XL</title>
+      <s:price currency="USD">295.00</s:price>
+      <s:sku>KN1176758-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1981027713</id>
+    <published>2015-09-01T14:42:00-04:00</published>
+    <updated>2015-09-01T14:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/fleece-two-pocket-bomber-by-todd-synder"/>
+    <title>Fleece Two Pocket Bomber by Todd Snyder</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Todd Snyder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/KN1456761-BK02-A_grande_91fe7fd1-da6f-4f6f-bfc5-b84aad8b9f21.jpg?v=1441133381" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Todd Snyder<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Finely fleeced for additional warmth and comfort the Two Pocket Bomber is classically styled with an elastic bottom and button collar. Made from the finest sourced cotton and designed for a trim, modern fit.</p>
+<p>- 100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Fleece Two Pocket Bomber</s:tag>
+    <s:tag>KN1456761</s:tag>
+    <s:tag>Todd Snyder</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1981027713</id>
+      <title>S</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>KN1456761-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1981027713</id>
+      <title>M</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>KN1456761-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1981027713</id>
+      <title>L</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>KN1456761-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1981027713</id>
+      <title>XL</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>KN1456761-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1953390465</id>
+    <published>2015-08-28T14:12:00-04:00</published>
+    <updated>2015-08-28T14:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/emil-denim-jacket-by-saturdays-nyc"/>
+    <title>Emil Denim Jacket by Saturdays NYC</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Saturdays NYC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/fp15_0457-copy.2.jpg?v=1440787737" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saturdays NYC<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Boasting a worn-in feel and rugged sensibility, the cropped and classic Emil Denim Jacket exudes an all-American appeal. Complete your Fall look with denim pants and a striped pocket tee.</p>
+<p>• Cotton/poly/nylon blend<br>• Branded hardware<br>• Two buttoned chest pockets<br>• Side seam pockets</p>
+<p>Raw Indigo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Emil Denim Jacket</s:tag>
+    <s:tag>Fall 15</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Raw Indigo</s:tag>
+    <s:tag>Saturdays NYC</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953390465</id>
+      <title>S</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>315EMIL-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953390465</id>
+      <title>M</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>315EMIL-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953390465</id>
+      <title>L</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>315EMIL-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953390465</id>
+      <title>XL</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>315EMIL-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1953231553</id>
+    <published>2015-08-28T13:43:00-04:00</published>
+    <updated>2015-08-28T13:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/jeremiah-cpo-by-saturdays-nyc"/>
+    <title>Jeremiah CPO Jacket by Saturdays NYC</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Saturdays NYC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/fp15_0057-copy_2.jpg?v=1440784033" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saturdays NYC<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Updated with an integrated quilted liner, the rugged Jeremiah CPO is a seasonal must-have that will bridge the gap between Fall and Winter.</span></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><span>• Outer: 40% wool/60% poly</span><br><span>• Liner: 100% nylon</span><br><span>• Integrated quilted liner</span></p>
+<p>Charcoal Heather</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charcoal Heather</s:tag>
+    <s:tag>Fall 15</s:tag>
+    <s:tag>Jeremiah CPO</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Saturdays NYC</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953231553</id>
+      <title>S</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>315JEREMIA-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953231553</id>
+      <title>M</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>315JEREMIA-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953231553</id>
+      <title>L</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>315JEREMIA-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953231553</id>
+      <title>XL</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>315JEREMIA-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1953245825</id>
+    <published>2015-08-28T13:43:00-04:00</published>
+    <updated>2015-08-28T13:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/koji-vest-by-saturdays-nyc"/>
+    <title>Koji Vest by Saturdays NYC</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Saturdays NYC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/fp15_0805-copy.4.jpg?v=1440784558" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saturdays NYC<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Bound to be a key layering piece all season, the quilted Koji Vest is down-filled to keep you warm while looking sharp. Team with denim and a stripe tee for a look that exudes effortless style.</p>
+<p>• Shell fabric: peached hand-feel<br>• Cotton/poly/nylon blend<br>• Ribbed collar<br>• Snap front closure<br>• Down/poly-filled<br>• Side seam pockets</p>
+<p>Black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Fall 15</s:tag>
+    <s:tag>Koji Vest</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Saturdays NYC</s:tag>
+    <s:tag>Vest</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953245825</id>
+      <title>S</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>315KOJI-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953245825</id>
+      <title>M</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>315KOJI-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953245825</id>
+      <title>L</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>315KOJI-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1953245825</id>
+      <title>XL</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>315KOJI-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1911114945</id>
+    <published>2015-08-21T15:49:00-04:00</published>
+    <updated>2015-08-21T15:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/shirt-jacket-by-gant-rugger"/>
+    <title>Shirt Jacket by Gant Rugger</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-08-21_at_5.03.05_PM.jpg?v=1440191248" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Gant's Satin Twill Shirt Jacket, in 100% cotton twill with a satiny feel, takes its inspiration from a vintage army shirt. Features a more relaxed fit, two buttoned chest pockets, slanted front pockets and familiar locker loop.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Flannel</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Shirt Jacket</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1911114945</id>
+      <title>S</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>342160S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1911114945</id>
+      <title>M</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>342160M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1911114945</id>
+      <title>L</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>342160L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1911114945</id>
+      <title>XL</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>342160XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1830075905</id>
+    <published>2015-08-12T15:19:00-04:00</published>
+    <updated>2015-08-12T15:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/the-wellfleet-jacket-by-mother-freedom"/>
+    <title>The Wellfleet Jacket by Mother Freedom</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Mother Freedom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/unnamed_2.jpg?v=1439407726" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Mother Freedom<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Navy Twill Canvas</p>
+<p>Corduroy Lined Collar</p>
+<p>Belted</p>
+<p>Made in USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barbour</s:tag>
+    <s:tag>Corduroy</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Mother Freedom</s:tag>
+    <s:tag>USA</s:tag>
+    <s:tag>Wellfleet</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1830075905</id>
+      <title>S</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>wellflee-navy-s-1</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1830075905</id>
+      <title>M</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>wellflee-navy-m-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1830075905</id>
+      <title>L</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>wellflee-navy-l-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1830075905</id>
+      <title>XL</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>wellflee-navy-xl-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/429390757</id>
+    <published>2015-03-18T12:05:00-04:00</published>
+    <updated>2015-03-18T12:05:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/m65-jacket-by-private-white-vc"/>
+    <title>M65 Jacket by Private White VC</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Private White VC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-03-18_at_12.06.48_PM.png?v=1426694898" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Private White VC<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Private White VC's M65 Shacket is based on a M65 combat field jacket created and introduced in 1965 for the US military and remains one of the most popular and recognisable military jackets to date.</p>
+<p>The 'shacket' bridges the gap between a shirt and a jacket. A perfect spring over-layer, the M65 Shacket constructed using 100% locally sourced cotton.</p>
+<p>The piece carries four patch pockets on the front exterior and our trademark military-grade copper zips from RIRI, Switzerland, creating the front fastening with self-fabric zip puller.</p>
+<p>This style has a drawstring waist detail and reinforced shoulder patches. We have added stud-adjustable cuffs and side fasteners for those that would like to wear the jacket with a slimmer fit.</p>
+<p>A stylish piece to layer up as desired for the cool spring months.</p>
+<p>*Made in Manchester, England*</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>M65 Jacket</s:tag>
+    <s:tag>Motorcycle</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Private White VC</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/429390757</id>
+      <title>Small</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku>M65-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/429390757</id>
+      <title>Medium</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku>M65-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/429390757</id>
+      <title>Large</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku>M65-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/429390757</id>
+      <title>X-Large</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku>M65-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/429390757</id>
+      <title>XX-Large</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku>M65-XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/429387833</id>
+    <published>2015-03-18T11:56:00-04:00</published>
+    <updated>2015-03-18T11:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/nylon-twin-track-by-private-white-vc"/>
+    <title>Nylon Twin Track by Private White VC</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Private White VC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-03-18_at_11.56.30_AM.png?v=1426694525" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Private White VC<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            795.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Private White V.C. are proud to introduce the legendary and iconic Twin Track Jacket, updated as a slightly shorter style, in a durable, lightweight nylon for the new season.</p>
+<p>Their unique dual sizing technology allows the wearer to utilize the zipped middle panel of the jacket when wearing thick layers during the colder months while having the ability to remove it for a snugger fit come spring. This 6cm centre front fabric panel is finished with two military-grade copper zips from RIRI, Switzerland.</p>
+<p>The jacket boasts four front patch packets all with extended stud closure pocket flaps to create an envelope pocket for extra security. The top left chest pocket is angled towards the centre to enable easy access.</p>
+<p>The two large lower pockets are lined in super-soft micro fleece for extra warmth. All pocket stress points are secured with tonal bar-tacks and fastened with copper studs to add strength.</p>
+<p>The collar of this particular style is made from a soft suede which also trims the zipped cuffs. There is also an additional shaped neck tab with a branded copper stud closure.</p>
+<p>The style is given fantastic shape and security with a belted waist, finished with a copper blanket clip and adjustable stud fastening.</p>
+<p>Finally, the jacket is lined in a soft, light 100% cotton sateen.</p>
+<p>A truly stunning piece of design and a garment which effortlessly lasts the test of time in both durability and style.</p>
+<p>*Made in Manchester, England*</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Motorcycle</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/429387833</id>
+      <title>Small</title>
+      <s:price currency="USD">795.00</s:price>
+      <s:sku>TWINTRACK-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/429387833</id>
+      <title>Medium</title>
+      <s:price currency="USD">795.00</s:price>
+      <s:sku>TWINTRACK-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/429387833</id>
+      <title>Large</title>
+      <s:price currency="USD">795.00</s:price>
+      <s:sku>TWINTRACK-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/429387833</id>
+      <title>X-Large</title>
+      <s:price currency="USD">795.00</s:price>
+      <s:sku>TWINTRACK-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/421021337</id>
+    <published>2015-03-03T17:47:00-05:00</published>
+    <updated>2015-03-03T17:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/the-quilter-jacket-by-gant-rugger"/>
+    <title>The Quilter Jacket by Gant Rugger</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-03-03_at_5.47.44_PM.png?v=1425422969" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            200.00 - 250.00
+            <a href="http://articlemenswear.com/products/the-quilter-jacket-by-gant-rugger">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>A vest with the kind of timeless silhouette you’ll appreciate for years. The Quilter Vest in polyester has diamond quilting and practical pockets that make this a stylish and clever layering choice. Also featuring a two-way zip closure and a longer back hem.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tailored</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/421021337</id>
+      <title>Small</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>74717-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/421021337</id>
+      <title>Medium</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>74717-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/421021337</id>
+      <title>Large</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>74717-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/421021337</id>
+      <title>X-Large</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>74717-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

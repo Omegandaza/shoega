@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://articlemenswear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://articlemenswear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://articlemenswear.com/collections/denim.atom"/>
+  <title>ARTICLE</title>
+  <updated>2015-10-28T13:11:00-04:00</updated>
+  <author>
+    <name>ARTICLE</name>
+  </author>
+  <entry>
+    <id>http://articlemenswear.com/products/2344488705</id>
+    <published>2015-10-28T13:11:00-04:00</published>
+    <updated>2015-10-28T13:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/new-standard-by-a-p-c"/>
+    <title>New Standard by A.P.C.</title>
+    <s:type>Denim</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-28_at_1.19.30_PM.png?v=1446052636" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Denim<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Japanese raw denim. Very stiff fabric that wears in over time. 100% Cotton. Straight leg. Straight mid-rise. Five pockets, button fly. The first button is engraved "A.P.C. rue Madame près du Luxembourg". Interior of fabric trimmed with selvage over entire length. Orange topstitching. 14.50 oz. Machine wash. Do not tumble dry.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>APC</s:tag>
+    <s:tag>Denim</s:tag>
+    <s:tag>Indigo</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>New Standard</s:tag>
+    <s:tag>Raw</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344488705</id>
+      <title>29</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09001-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344488705</id>
+      <title>30</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09001-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344488705</id>
+      <title>32</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09001-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344488705</id>
+      <title>33</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09001-33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344488705</id>
+      <title>34</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09001-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344488705</id>
+      <title>35</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09001-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344488705</id>
+      <title>36</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09001-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2344520321</id>
+    <published>2015-10-28T13:11:00-04:00</published>
+    <updated>2015-10-28T13:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/petite-new-standard-by-a-p-c"/>
+    <title>Petite New Standard by A.P.C.</title>
+    <s:type>Denim</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/387545_mrp_in_l.png?v=1446052842" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Denim<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Japanese raw denim. Very stiff fabric that wears in over time. 100% Cotton. Very tight leg fitted at the bottom. Straight mid-rise. Five pockets, button fly. The first button is engraved "A.P.C. rue Madame près du Luxembourg". Interior of fabric trimmed with selvage over entire length. Orange topstitching. 14.50 oz. Machine wash. Do not tumble dry.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>APC</s:tag>
+    <s:tag>Denim</s:tag>
+    <s:tag>Indigo</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Petite New Standard</s:tag>
+    <s:tag>Raw</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344520321</id>
+      <title>29</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09047-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344520321</id>
+      <title>30</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09047-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344520321</id>
+      <title>32</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09047-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344520321</id>
+      <title>33</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09047-33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344520321</id>
+      <title>34</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09047-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344520321</id>
+      <title>35</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09047-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2344520321</id>
+      <title>36</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>CODBS-M09047-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2151340417</id>
+    <published>2015-10-01T12:18:00-04:00</published>
+    <updated>2015-10-01T12:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/stealth-sk-skinny-15oz-raw-black-denim-by-rogue-territory"/>
+    <title>Stealth SK-Skinny 15oz Raw Black Denim by Rogue Territory</title>
+    <s:type>Denim</s:type>
+    <s:vendor>Rogue Territory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/RogueTerritory_StealthSK_front.jpg?v=1443716147" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Rogue Territory<br>
+        <strong>Type: </strong>Denim<br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>- Signature hidden pen pocket in back right pocket</span><br><span>- Signature “lasso” stich on back pockets</span><br><span>- Fly and coin pocket cut on selvedge</span><br><span>- Branded matte black button on waistband</span><br><span>- Unbranded open-face rivets</span><br><span>- Hand silk-screened pocket bag</span><br><span>- Single needle continuous stitch on waistband</span><br><span>- Belt loops sewn into the waistband</span><br><span>- Hand branded leather patch</span><br><span>- Handmade in downtown Los Angeles, Calif.</span></p>
+<meta charset="utf-8">
+<p><strong>FIT - </strong>Skinny Leg, Mid-Rise</p>
+<p><strong>DENIM -</strong> 15oz sanforized black Japanese selvedge denim from in <span>Nihon Menpu Mills</span> the famous Okayama Prefecture.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15oz</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Denim</s:tag>
+    <s:tag>Japanese Selvedge</s:tag>
+    <s:tag>Raw Denim</s:tag>
+    <s:tag>Rogue Territory</s:tag>
+    <s:tag>SK-Skinny</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151340417</id>
+      <title>29</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>1205-29</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151340417</id>
+      <title>30</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>1205-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151340417</id>
+      <title>31</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>1205-31</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151340417</id>
+      <title>32</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>1205-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151340417</id>
+      <title>33</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>1205-33</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151340417</id>
+      <title>34</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>1205-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2151435265</id>
+    <published>2015-10-01T12:18:00-04:00</published>
+    <updated>2015-10-01T12:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/stanton-slim-straight-14-5oz-raw-indigo-denim-by-rogue-territory"/>
+    <title>Stanton-Slim Straight 14.5oz Raw Indigo Denim by Rogue Territory</title>
+    <s:type>Denim</s:type>
+    <s:vendor>Rogue Territory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-01_at_12.12.01_PM.png?v=1443715971" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Rogue Territory<br>
+        <strong>Type: </strong>Denim<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>- Signature hidden pen pocket in back right pocket</span><br><span>- Signature “lasso” stich on back pockets</span><br><span>- Selvedge on fly and coin pocket</span><br><span>- Branded button on waistband</span><br><span>- Hand silk-screened pocket bag</span><br><span>- Single needle continuous stitch on waistband</span><br><span>- Belt loops sewn into the waistband</span><br><span>- Hand branded leather patch</span><br><span>- Handmade in downtown Los Angeles, Calif.</span></p>
+<meta charset="utf-8">
+<p><strong>FIT - </strong>Slim Straight, Mid-Rise</p>
+<p><strong>DENIM -</strong> <span>14.5oz sanforized pure indigo Japanese selvedge denim from </span><span>Nihon Menpu Mills</span> the famous Okayama Prefecture.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14.5oz</s:tag>
+    <s:tag>Denim</s:tag>
+    <s:tag>Japanese Selvedge</s:tag>
+    <s:tag>Raw Denim</s:tag>
+    <s:tag>Rogue Territory</s:tag>
+    <s:tag>Slim Straight</s:tag>
+    <s:tag>Stanton</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151435265</id>
+      <title>28</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>1000-29</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151435265</id>
+      <title>30</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>1000-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151435265</id>
+      <title>31</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>1000-31</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151435265</id>
+      <title>32</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>1000-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151435265</id>
+      <title>33</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>1000-33</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151435265</id>
+      <title>34</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>1000-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2151435265</id>
+      <title>36</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>1000-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/422850717</id>
+    <published>2015-03-25T16:28:00-04:00</published>
+    <updated>2015-03-25T16:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/the-samuel-in-hayden-selvage-denim-by-baldwin-denim"/>
+    <title>The Samuel in Hayden Selvage Denim by Baldwin Denim</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Baldwin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-03-25_at_4.23.25_PM.png?v=1427315186" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Baldwin<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            232.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>14 oz. black-line selvage denim from Kurabo Mills, exclusive to Baldwin. Medium-light wash with high contrast fading. Slim design with a medium-higher rise. Slim top block and straight through the lower leg. Five pocket design with button fly, custom hardware and selvage detailing throughout. Made in the USA.</p>
+<p>100% Cotton</p>
+<p>Cold wash, hang to dry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Denim</s:tag>
+    <s:tag>Light Wash</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Selvage</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/422850717</id>
+      <title>30</title>
+      <s:price currency="USD">232.00</s:price>
+      <s:sku>1006-HYD-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/422850717</id>
+      <title>32</title>
+      <s:price currency="USD">232.00</s:price>
+      <s:sku>1006-HYD-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/422850717</id>
+      <title>33</title>
+      <s:price currency="USD">232.00</s:price>
+      <s:sku>1006-HYD-33</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/422850717</id>
+      <title>34</title>
+      <s:price currency="USD">232.00</s:price>
+      <s:sku>1006-HYD-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/422850717</id>
+      <title>36</title>
+      <s:price currency="USD">232.00</s:price>
+      <s:sku>1006-HYD-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/422850717</id>
+      <title>38</title>
+      <s:price currency="USD">232.00</s:price>
+      <s:sku>1006-HYD-38</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/370209921</id>
+    <published>2015-03-19T13:47:00-04:00</published>
+    <updated>2015-03-19T13:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/barton-rigid-by-imogene-willie"/>
+    <title>Barton Rigid by Imogene + Willie</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Imogene + Willie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/bartonRigid-zoomFront_1024x1024_69526568-713b-4a29-8d94-ef13dd0738b3.jpg?v=1426787145" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Imogene + Willie<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The "Barton Rigid" is made from premium 13.50 oz selvage denim and sewn with care in the USA. Barton, however, has a lower rise and is slimmer from the knee down—a proper, moderate slim-straight.</p>
+<meta charset="utf-8">
+<p><span>A moderate slim-straight with a lower-rise.</span></p>
+<meta charset="utf-8">
+<p><span><span>All jeans come with a 34" inseam,</span></span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Denim</s:tag>
+    <s:tag>Imogene and Willie</s:tag>
+    <s:tag>Indigo</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Raw</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/370209921</id>
+      <title>30</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>BAR100101-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/370209921</id>
+      <title>32</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>BAR100101-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/370209921</id>
+      <title>33</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>BAR100101-33</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/370209921</id>
+      <title>34</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>BAR100101-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/370209921</id>
+      <title>36</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>BAR100101-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/140574939</id>
+    <published>2013-09-22T11:45:00-04:00</published>
+    <updated>2013-09-22T11:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/noble-earnest-slim-straight"/>
+    <title>Earnest Slim Straight by Noble</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Noble</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Noble_Denim_335.jpg?v=1379864632" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Noble<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cincinnati's own Noble Denim prides themselves on not cutting corners. Made in the USA and sourced with all American ingredients, Noble jeans are built with utility in mind.  They feature a sturdy 14 oz red-line selvage from Cone Mills White Oak, lined back pockets for durability, American &amp; Efird thread, copper buttons and rivets and a reclaimed leather / hand branded patch.</p>
+<p>The Earnest is a classic slim fit.  Straight from the knee down, with a low-rise and slim through the thigh.</p>
+<p>They fit true to size in the waist and are pre-hemmed at a 34" length.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Denim</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574939</id>
+      <title>29</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDSLSM-29</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574939</id>
+      <title>30</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDSLSM-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574939</id>
+      <title>31</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDSLSM-31</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574939</id>
+      <title>32</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDSLSM-32</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574939</id>
+      <title>33</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDSLSM-33</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574939</id>
+      <title>34</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDSLSM-34</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574939</id>
+      <title>35</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDSLSM-35</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574939</id>
+      <title>36</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDSLSM-36</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574939</id>
+      <title>38</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDSLSM-38</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/140574669</id>
+    <published>2013-09-22T11:44:00-04:00</published>
+    <updated>2013-09-22T11:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/noble-truman-regular"/>
+    <title>Truman Regular by Noble</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Noble</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Noble_Denim_339.jpg?v=1379873051" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Noble<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cincinnati's own Noble Denim prides themselves on not cutting corners.  Made in the USA and sourced with all American ingredients, Noble jeans are built with utility in mind.  They feature 14 oz red-line selvage from Cone Mills White Oak, lined back pockets for durability, American &amp; Efird thread, copper buttons and rivets and a reclaimed leather / hand branded patch.</p>
+<p>The Truman's are a regular, but modern fit.  Straight from the knee down, with a mid-rise and a little extra room in the thigh.  </p>
+<p>They fit true to size in the waist and are pre-hemmed at a 34" length.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Denim</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>29</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-29</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>30</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-30</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>31</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-31</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>32</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-32</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>33</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-33</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>34</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-34</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>35</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-35</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>36</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-36</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>38</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-38</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>40</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-40</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

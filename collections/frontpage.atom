@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://articlemenswear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://articlemenswear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://articlemenswear.com/collections/frontpage.atom"/>
+  <title>ARTICLE</title>
+  <updated>2015-08-21T11:00:00-04:00</updated>
+  <author>
+    <name>ARTICLE</name>
+  </author>
+  <entry>
+    <id>http://articlemenswear.com/products/1892809921</id>
+    <published>2015-08-21T11:00:00-04:00</published>
+    <updated>2015-08-21T11:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/copy-of-peter-sweater-by-a-p-c"/>
+    <title>Saylor Sweater by A.P.C.</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-08-21_at_10.58.19_AM.png?v=1440169143" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Sheer striped Scottish lambswool. Striped knit. Ribbed crew neckline. Knit detail at sleeve seams. Long sleeves. Wide elasticated ribbing at wrists and hem. 100% Extra fine lambswool. Hand wash. Do not tumble dry.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>APC</s:tag>
+    <s:tag>H23404</s:tag>
+    <s:tag>Knits</s:tag>
+    <s:tag>Saylor Sweater</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1892809921</id>
+      <title>Small</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>WVAES-H23404-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1892809921</id>
+      <title>Medium</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>WVAES-H23404-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1892809921</id>
+      <title>Large</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>WVAES-H23404-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1892809921</id>
+      <title>X Large</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>WVAES-H23404-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1830075905</id>
+    <published>2015-08-12T15:19:00-04:00</published>
+    <updated>2015-08-12T15:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/the-wellfleet-jacket-by-mother-freedom"/>
+    <title>The Wellfleet Jacket by Mother Freedom</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Mother Freedom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/unnamed_2.jpg?v=1439407726" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Mother Freedom<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Navy Twill Canvas</p>
+<p>Corduroy Lined Collar</p>
+<p>Belted</p>
+<p>Made in USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barbour</s:tag>
+    <s:tag>Corduroy</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Mother Freedom</s:tag>
+    <s:tag>USA</s:tag>
+    <s:tag>Wellfleet</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1830075905</id>
+      <title>S</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>wellflee-navy-s-1</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1830075905</id>
+      <title>M</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>wellflee-navy-m-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1830075905</id>
+      <title>L</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>wellflee-navy-l-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1830075905</id>
+      <title>XL</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>wellflee-navy-xl-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/140574669</id>
+    <published>2013-09-22T11:44:00-04:00</published>
+    <updated>2013-09-22T11:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/noble-truman-regular"/>
+    <title>Truman Regular by Noble</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Noble</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Noble_Denim_339.jpg?v=1379873051" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Noble<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cincinnati's own Noble Denim prides themselves on not cutting corners.  Made in the USA and sourced with all American ingredients, Noble jeans are built with utility in mind.  They feature 14 oz red-line selvage from Cone Mills White Oak, lined back pockets for durability, American &amp; Efird thread, copper buttons and rivets and a reclaimed leather / hand branded patch.</p>
+<p>The Truman's are a regular, but modern fit.  Straight from the knee down, with a mid-rise and a little extra room in the thigh.  </p>
+<p>They fit true to size in the waist and are pre-hemmed at a 34" length.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Denim</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>29</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-29</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>30</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-30</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>31</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-31</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>32</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-32</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>33</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-33</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>34</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-34</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>35</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-35</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>36</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-36</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>38</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-38</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140574669</id>
+      <title>40</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>NDREGM-40</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

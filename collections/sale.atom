@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://articlemenswear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://articlemenswear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://articlemenswear.com/collections/sale.atom"/>
+  <title>ARTICLE</title>
+  <updated>2016-01-05T16:57:07-05:00</updated>
+  <author>
+    <name>ARTICLE</name>
+  </author>
+  <entry>
+    <id>http://articlemenswear.com/products/1910970049</id>
+    <published>2016-01-05T16:57:07-05:00</published>
+    <updated>2016-01-05T16:57:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/fall-handloom-madras-shirt-by-gant-rugger-1"/>
+    <title>Fall Handloom Madras Shirt by Gant Rugger</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2016-01-05_at_4.56.11_PM.jpg?v=1452030700" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            94.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Gant's Fall Handloom Madras Shirt, in 100% cotton with a slightly more relaxed fit, features an allover checked pattern, button-down collar, front chest pocket and familiar locker loop.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Fall Handloom Madras</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1910970049</id>
+      <title>S</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342020S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1910970049</id>
+      <title>M</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342020M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1910970049</id>
+      <title>L</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342020L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1910970049</id>
+      <title>XL</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342020XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3815628801</id>
+    <published>2016-01-05T14:26:25-05:00</published>
+    <updated>2016-01-05T14:26:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/tuscumbia-shirt-by-billy-reid"/>
+    <title>Tuscumbia Shirt by Billy Reid</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Billy Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/H15-102.2177.NVGR-Billy-Reid-Tuscumbia-Shirt-Navy-Grey_1.jpg?v=1452021471" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Reid<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            138.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li><span style="line-height: 1.4;">Standard cut</span></li>
+<li><span style="line-height: 1.4;">Button down collar</span></li>
+<li><span style="line-height: 1.4;">Mother of pearl buttons</span></li>
+<li><span style="line-height: 1.4;">Front pocket</span></li>
+<li><span style="line-height: 1.4;">Single barrel cuff</span></li>
+<li><span style="line-height: 1.4;">Bias yoke</span></li>
+<li><span style="line-height: 1.4;">100% Cotton</span></li>
+<li><span style="line-height: 1.4;">Imported</span></li>
+<li><span style="line-height: 1.4;">Machine wash</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Billy Reid</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Over-the-Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Tuscumbia Shirt</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3815628801</id>
+      <title>S</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>TUS-N/C-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3815628801</id>
+      <title>M</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>TUS-N/C-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3815628801</id>
+      <title>L</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>TUS-N/C-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3815628801</id>
+      <title>XL</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>TUS-N/C-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3668856769</id>
+    <published>2015-12-09T19:13:00-05:00</published>
+    <updated>2015-12-09T19:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/birch-boiled-wool-blazer-by-grayers"/>
+    <title>Birch Boiled Wool Blazer by Grayers</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-09_at_7.17.02_PM.png?v=1449706788" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            137.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Grayers hybrid interpretation of a lapel blazer, featuring a rounded turned-down collar and shaped into a "blazer", is crafted with boiled wool, a technique that results in a densely finished knitted fabric. Unlike a sweater, it is then cut and sewn into a jacket. 50% Wool 50% Polyester. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boiled Wool</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>S</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>M</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>L</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>XL</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3668856769</id>
+      <title>XXL</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>J006A15BIR-5</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3661861825</id>
+    <published>2015-12-08T18:54:00-05:00</published>
+    <updated>2015-12-08T18:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/herringbone-wool-tie-by-grayers"/>
+    <title>Herringbone Wool Tie by Grayers</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-08_at_6.59.04_PM.png?v=1449619019" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This herringbone tie is made from a slub wool with a slight tweed look in a versatile charcoal color to dress up cold weather looks. 50% Wool 50% Polyester. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cincinnati Menswear</s:tag>
+    <s:tag>Herringbone</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Tie</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661861825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>N002A15HRB</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3662052673</id>
+    <published>2015-12-08T18:46:00-05:00</published>
+    <updated>2015-12-08T18:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/heritage-flannel-shirt-by-grayers-1"/>
+    <title>Heritage Flannel Shirt by Grayers</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-08_at_7.28.24_PM.png?v=1449620797" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Weighing in at 8.7 ounces, the Heritage Flannel comes in the softest heather yarn-dyed brushed flannel. In a vintage inspired red and gray plaid, the Heritage is complete with a placket trimmed in herringbone cotton. 100% Cotton. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Flannel Shirts</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Heritage Flannel</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3662052673</id>
+      <title>S</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>W022A15RGP-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3662052673</id>
+      <title>M</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>W022A15RGP-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3662052673</id>
+      <title>L</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>W022A15RGP-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3662052673</id>
+      <title>XL</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>W022A15RGP-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3662052673</id>
+      <title>XXL</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>W022A15RGP-XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3661817857</id>
+    <published>2015-12-08T18:46:00-05:00</published>
+    <updated>2015-12-08T18:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/heritage-flannel-shirt-by-grayers"/>
+    <title>Heritage Flannel Shirt by Grayers</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-08_at_6.50.41_PM.png?v=1449618538" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This rendition is a classic vintage-inspired multi color plaid in a compact and soft brushed cotton flannel. Complete with a placket trimmed in a herringbone cotton. 100% Cotton. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Flannel Shirts</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Heritage Flannel</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661817857</id>
+      <title>S</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>W008A15BRB-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661817857</id>
+      <title>M</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>W008A15BRB-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661817857</id>
+      <title>L</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>W008A15BRB-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661817857</id>
+      <title>XL</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>W008A15BRB-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3661200129</id>
+    <published>2015-12-08T16:50:00-05:00</published>
+    <updated>2015-12-08T16:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/ivy-blazer-by-grayers"/>
+    <title>Ivy Blazer by Grayers</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-08_at_4.54.03_PM.png?v=1449612127" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            156.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Special details include a half-lined body in poplin, and sleeves lined with bemberg lining. This versatile jacket can be worn with a dress shirt and pants, or more casual with our Selvedge Chambray Shirt and Japanese Selvedge Denim. 75% Wool, 25% Nylon. Imported.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Article Menswear</s:tag>
+    <s:tag>Blazer</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Ivy Blazer</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sportcoat</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>S</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>M</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>L</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3661200129</id>
+      <title>XL</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>J004A15IVY-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3645413377</id>
+    <published>2015-12-05T10:38:00-05:00</published>
+    <updated>2015-12-05T10:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/compact-chambray-weave-by-grayers"/>
+    <title>Compact Chambray Weave by Grayers</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-05_at_11.14.56_AM.png?v=1449332178" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            72.00 - 89.95
+            <a href="http://articlemenswear.com/products/compact-chambray-weave-by-grayers">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Vintage-inspired details such as the chambray half-moon and inside cuffs, and is finished with a button-down collar. 100% Cotton. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chambray</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Flannel</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3645413377</id>
+      <title>S</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>W015A15CRP-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3645413377</id>
+      <title>M</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W015A15CRP-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3645413377</id>
+      <title>L</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W015A15CRP-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3645413377</id>
+      <title>XL</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>W015A15CRP-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3646180545</id>
+    <published>2015-12-05T10:38:00-05:00</published>
+    <updated>2015-12-05T10:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/compact-chambray-weave-by-grayers-1"/>
+    <title>Compact Chambray Weave by Grayers</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-05_at_12.36.19_PM.png?v=1449336775" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Vintage-inspired details such as the chambray half-moon and inside cuffs, and is finished with a button-down collar. 100% Cotton. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chambray</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Flannel</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3646180545</id>
+      <title>S</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W015A15CRP-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3646180545</id>
+      <title>M</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W015A15CRP-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3646180545</id>
+      <title>L</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W015A15CRP-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3646180545</id>
+      <title>XL</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W015A15CRP-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3642057537</id>
+    <published>2015-12-04T19:57:00-05:00</published>
+    <updated>2015-12-04T19:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/double-cloth-shirt-by-grayers"/>
+    <title>Double Cloth Shirt by Grayers</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Grayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-12-04_at_8.00.37_PM.png?v=1449277781" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Grayers<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>A herringbone pattern with a lightweight chambray interior. Details include two patch pockets. 100% Cotton. IMPORTED.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Article Menswear</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Double Cloth</s:tag>
+    <s:tag>Flannel</s:tag>
+    <s:tag>Grayers</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3642057537</id>
+      <title>S</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W014A15GBP-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3642057537</id>
+      <title>M</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W014A15GBP-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3642057537</id>
+      <title>L</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W014A15GBP-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3642057537</id>
+      <title>XL</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W014A15GBP-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3642057537</id>
+      <title>XXL</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>W014A15GBP-5</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3641782977</id>
+    <published>2015-12-04T19:14:00-05:00</published>
+    <updated>2015-12-04T19:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/basketweave-sweater-by-billy-reid"/>
+    <title>Basketweave Sweater by Billy Reid</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Billy Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/H15-103.1546.NA-Billy-Reid-Basketweave-Pullover-Natural_1_1.jpg?v=1449274839" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Reid<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            273.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Classic fit</p>
+<p>Ribbed shawl collar with horn button closure</p>
+<p>95% Cashmere, 5% merino wool</p>
+<p>Made in Italy</p>
+<p>Dry clean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Article Menswear</s:tag>
+    <s:tag>Basketweave Sweater</s:tag>
+    <s:tag>Billy Reid</s:tag>
+    <s:tag>Cashmere</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Italy</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>OTR</s:tag>
+    <s:tag>Over-the-Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sweater</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3641782977</id>
+      <title>S</title>
+      <s:price currency="USD">273.00</s:price>
+      <s:sku>bas-w-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3641782977</id>
+      <title>M</title>
+      <s:price currency="USD">273.00</s:price>
+      <s:sku>bas-w-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3641782977</id>
+      <title>L</title>
+      <s:price currency="USD">273.00</s:price>
+      <s:sku>bas-w-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3641782977</id>
+      <title>XL</title>
+      <s:price currency="USD">273.00</s:price>
+      <s:sku>bas-w-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3604257729</id>
+    <published>2015-11-28T17:08:00-05:00</published>
+    <updated>2015-11-28T17:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/alpes-parka-by-a-p-c"/>
+    <title>Alpes Parka by A.P.C.</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-11-28_at_4.01.33_PM.png?v=1448749241" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            577.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Water repellent Italian cotton gabardine. Straight cut. High buttoned collar with large hood. Two-way zip closure under buttoned flap. Piped raglan button-flap pockets. On-seam side pockets. Pleat and slit at wrist. Sewn-on cuff adjusts with buttoned tab. Piped inside pocket. Removable button-on lining in faux sheepskin. Quilted sleeve lining. Edges and seams of removable lining trimmed in white bias binding. Napped lining. 100% Cotton. Professional cleaning only.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Alpes Parka</s:tag>
+    <s:tag>APC</s:tag>
+    <s:tag>Article</s:tag>
+    <s:tag>Article Menswear</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3604257729</id>
+      <title>S</title>
+      <s:price currency="USD">577.00</s:price>
+      <s:sku>alpespark-1</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3604257729</id>
+      <title>M</title>
+      <s:price currency="USD">577.00</s:price>
+      <s:sku>alpespark-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3604257729</id>
+      <title>L</title>
+      <s:price currency="USD">577.00</s:price>
+      <s:sku>alpespark-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3604257729</id>
+      <title>XL</title>
+      <s:price currency="USD">577.00</s:price>
+      <s:sku>alpespark-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3589946625</id>
+    <published>2015-11-25T19:08:00-05:00</published>
+    <updated>2015-11-25T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/the-shetland-sweater-by-gant-rugger"/>
+    <title>The Shetland Sweater by Gant Rugger</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-11-25_at_7.20.18_PM.png?v=1448497013" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            93.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The Gant Rugger Shetland Sweater, made from the finest sheep’s wool with saddle shoulders, is as warm as it is airy.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>OTR</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sweater</s:tag>
+    <s:tag>The Shetland</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589946625</id>
+      <title>S</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>85610-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589946625</id>
+      <title>M</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>85610-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589946625</id>
+      <title>L</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>85610-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589946625</id>
+      <title>XL</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>85610-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3589941441</id>
+    <published>2015-11-25T19:08:00-05:00</published>
+    <updated>2015-11-25T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/the-basketweave-sweater-by-gant-rugger"/>
+    <title>The Basketweave Sweater by Gant Rugger</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-11-25_at_7.16.54_PM.png?v=1448496809" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The Basketweave Sweater, in a 7-gauge cotton-wool-Alpaca blend that’s been expertly knitted in a pattern to resemble detailed basketwork, features a slightly wider crewneck and ribbing at the cuffs and hem.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>OTR</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sweater</s:tag>
+    <s:tag>The Basketweave Sweater</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589941441</id>
+      <title>S</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>85614-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589941441</id>
+      <title>M</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>85614-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589941441</id>
+      <title>L</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>85614-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589941441</id>
+      <title>XL</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>85614-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3589859457</id>
+    <published>2015-11-25T18:33:00-05:00</published>
+    <updated>2015-11-25T18:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/windblown-flannel-shirt-by-gant-rugger"/>
+    <title>Windblown Flannel Shirt by Gant Rugger</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-11-24_at_6.33.05_PM.png?v=1448494680" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            87.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Gant Rugger's Windblown Flannel Shirt, in 100% soft cotton flannel with a slim Hugger fit, features an allover checked pattern, button-down collar, chest pocket and familiar locker loop.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Mens Clothing Store</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Windblown Oxford</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589859457</id>
+      <title>S</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>342060-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589859457</id>
+      <title>M</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>342060-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589859457</id>
+      <title>L</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>342060-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589859457</id>
+      <title>XL</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>342060-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3589909249</id>
+    <published>2015-11-25T18:33:00-05:00</published>
+    <updated>2015-11-25T18:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/windblown-flannel-shirt-by-gant-rugger-1"/>
+    <title>Windblown Flannel Shirt by Gant Rugger</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-11-25_at_6.48.03_PM.png?v=1448495615" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            87.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Gant Rugger's Windblown Flannel Shirt, in 100% soft cotton flannel with a slim Hugger fit, features an allover checked pattern, button-down collar, chest pocket and familiar locker loop.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Mens Clothing Store</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Windblown Oxford</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589909249</id>
+      <title>S</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>342060-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589909249</id>
+      <title>M</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>342060-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589909249</id>
+      <title>L</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>342060-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589909249</id>
+      <title>XL</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>342060-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3589927297</id>
+    <published>2015-11-25T18:33:00-05:00</published>
+    <updated>2015-11-25T18:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/melange-twill-shirt-by-gant-rugger-1"/>
+    <title>Melange Twill Shirt by Gant Rugger</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-11-25_at_7.03.14_PM.png?v=1448496063" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            94.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Gant's Melange Twill Shirt, in 100% cotton with a soft and smooth finish and slim Hugger fit, features a button-down collar, front chest pocket and familiar locker loop.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Melange Twill</s:tag>
+    <s:tag>Mens Clothing Store</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Windblown Oxford</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589927297</id>
+      <title>S</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342140-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589927297</id>
+      <title>M</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342140-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589927297</id>
+      <title>L</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342140-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589927297</id>
+      <title>XL</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342140-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3589934081</id>
+    <published>2015-11-25T18:33:00-05:00</published>
+    <updated>2015-11-25T18:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/melange-twill-shirt-by-gant-rugger-2"/>
+    <title>Melange Twill Shirt by Gant Rugger</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-11-25_at_7.06.13_PM.png?v=1448496271" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            94.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Gant's Melange Twill Shirt, in 100% cotton with a soft and smooth finish and slim Hugger fit, features a button-down collar, front chest pocket and familiar locker loop.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Melange Twill</s:tag>
+    <s:tag>Mens Clothing Store</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Windblown Oxford</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589934081</id>
+      <title>S</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342150-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589934081</id>
+      <title>M</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342150-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589934081</id>
+      <title>L</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342150-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589934081</id>
+      <title>XL</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342150-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3589915969</id>
+    <published>2015-11-25T18:33:00-05:00</published>
+    <updated>2015-11-25T18:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/melange-twill-shirt-by-gant-rugger"/>
+    <title>Melange Twill Shirt by Gant Rugger</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Gant Rugger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-11-25_at_6.58.05_PM.png?v=1448495878" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gant Rugger<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            94.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Gant's Melange Twill Shirt, in 100% cotton with a soft and smooth finish and slim Hugger fit, features a button-down collar, front chest pocket and familiar locker loop.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Gant Rugger</s:tag>
+    <s:tag>Melange Twill</s:tag>
+    <s:tag>Mens Clothing Store</s:tag>
+    <s:tag>Ohio</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Windblown Oxford</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589915969</id>
+      <title>S</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342130-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589915969</id>
+      <title>M</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342130-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589915969</id>
+      <title>L</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342130-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3589915969</id>
+      <title>XL</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>342130-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2333898497</id>
+    <published>2015-10-27T15:51:00-04:00</published>
+    <updated>2015-10-27T15:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/emile-shirt-by-a-p-c"/>
+    <title>Emile Shirt by A.P.C.</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-27_at_4.11.19_PM.png?v=1445976536" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            147.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Italian indigo cotton Oxford cloth. Buttoned placket closure. Seven buttons. Topstitched breast pocket. Back yoke, box pleat below. Pleat and reinforced slit at wrist. Buttoned cuff. Felled seams. Slightly rounded hem. Mother-of-pearl buttons. 100% Cotton. Machine wash. Do not tumble dry.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Emile Shirt</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Shirting</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333898497</id>
+      <title>S</title>
+      <s:price currency="USD">147.00</s:price>
+      <s:sku>emile-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333898497</id>
+      <title>M</title>
+      <s:price currency="USD">147.00</s:price>
+      <s:sku>emile-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333898497</id>
+      <title>L</title>
+      <s:price currency="USD">147.00</s:price>
+      <s:sku>emile-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333898497</id>
+      <title>XL</title>
+      <s:price currency="USD">147.00</s:price>
+      <s:sku>emile-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2333999233</id>
+    <published>2015-10-27T15:51:00-04:00</published>
+    <updated>2015-10-27T15:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/steven-overshirt-by-a-p-c-1"/>
+    <title>Steven Overshirt by A.P.C.</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-27_at_4.14.01_PM.png?v=1445976737" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Plaid Italian wool blend flannel. Buttoned placket closure. Six buttons. Button-down collar with topstitched edges. Back yoke. Pleat and buttoned slit at wrist. Topstitched, buttoned cuffs. Felled seams. Slightly rounded hem. 75% Wool. 25% Nylon. Professional cleaning only.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shacket</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Shirting</s:tag>
+    <s:tag>Steven Overshirt</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333999233</id>
+      <title>S</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>stevenov-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333999233</id>
+      <title>M</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>stevenov-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333999233</id>
+      <title>L</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>stevenov-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333999233</id>
+      <title>XL</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>stevenov-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2333826881</id>
+    <published>2015-10-27T15:51:00-04:00</published>
+    <updated>2015-10-27T15:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/steven-overshirt-by-a-p-c"/>
+    <title>Steven Overshirt by A.P.C.</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-27_at_3.54.26_PM.png?v=1445976094" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Plaid Italian wool blend flannel. Buttoned placket closure. Six buttons. Button-down collar with topstitched edges. Back yoke. Pleat and buttoned slit at wrist. Topstitched, buttoned cuffs. Felled seams. Slightly rounded hem. 75% Wool. 25% Nylon. Professional cleaning only.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>APC Cincinnati</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Plaid</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shacket</s:tag>
+    <s:tag>Steven Overshirt</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333826881</id>
+      <title>S</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>stevenov-s-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333826881</id>
+      <title>M</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>stevenov-s-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333826881</id>
+      <title>L</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>stevenov-s-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333826881</id>
+      <title>XL</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>stevenov-s-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2333799553</id>
+    <published>2015-10-27T15:51:00-04:00</published>
+    <updated>2015-10-27T15:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/lewis-long-jacket-by-a-p-c"/>
+    <title>Lewis Long Coat by A.P.C.</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-27_at_3.29.24_PM.png?v=1445975869" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            516.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Italian double face wool blend. Tailored collar. Undercollar in thin felt. Front buttoning. Three buttons. Piped flap pockets. Single vent. Piped inside pocket. Partial lining. Bias trim inside. Buttons in horn and powdered horn. Napped lining. Mid-thigh length. 80% Wool. 20% Polyamide. Professional cleaning only.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>Driver Coat</s:tag>
+    <s:tag>Lewis Long Coat</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333799553</id>
+      <title>S</title>
+      <s:price currency="USD">516.00</s:price>
+      <s:sku>lewislong-n-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333799553</id>
+      <title>M</title>
+      <s:price currency="USD">516.00</s:price>
+      <s:sku>lewislong-n-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333799553</id>
+      <title>L</title>
+      <s:price currency="USD">516.00</s:price>
+      <s:sku>lewislong-n-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2333799553</id>
+      <title>XL</title>
+      <s:price currency="USD">516.00</s:price>
+      <s:sku>lewislong-n-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2279276609</id>
+    <published>2015-10-20T10:55:00-04:00</published>
+    <updated>2015-10-20T10:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/indigo-selvedge-work-shit-by-rogue-territory"/>
+    <title>Indigo Selvedge Work Shirt by Rogue Territory</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Rogue Territory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/rogue_territory_isc_indigo_selvedge_canvas_workshirt.jpg?v=1445354445" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Rogue Territory<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="line-height: 1.5;">Navy pearl cats-eye buttons</span></li>
+<li><span style="line-height: 1.5;">Cut on selvedge</span></li>
+<li><span style="line-height: 1.5;">Double needle placket</span></li>
+<li><span style="line-height: 1.5;">Triple needle chain stitch seams w/ run-off detail</span></li>
+<li><span style="line-height: 1.5;">Left chest pocket w/ button flap</span></li>
+<li><span style="line-height: 1.5;">Natural herringbone locker loop</span></li>
+<li><span style="line-height: 1.5;">Handmade in downtown Los Angeles, Calif.</span></li>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Indigo</s:tag>
+    <s:tag>Rogue Territory</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Selvedge</s:tag>
+    <s:tag>Work Shirt</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2279276609</id>
+      <title>S</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>2510-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2279276609</id>
+      <title>M</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>2510-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2279276609</id>
+      <title>L</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>2510-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2279276609</id>
+      <title>XL</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>2510-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/2242573057</id>
+    <published>2015-10-15T15:51:00-04:00</published>
+    <updated>2015-10-15T15:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/clean-natural-white-henley-by-industry-of-all-nations"/>
+    <title>Clean Natural White Henley by Industry of all Nations</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Industry of all Nations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-10-15_at_4.25.43_PM.png?v=1444941039" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Industry of all Nations<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="CP_UpdatePaneldescription">
+<div>
+<ul>
+<li><span style="line-height: 1.5;">Fabric: light weight 100% organic cotton</span></li>
+<li><span style="line-height: 1.5;">Coloring: H202 Hydrogen Peroxide </span></li>
+<li><span style="line-height: 1.5;">Made and naturally dyed in Tamil Nadu, India</span></li>
+</ul>
+</div>
+</div>
+<div id="CP_UpdatePanel14"></div>
+<div id="CP_up1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basics</s:tag>
+    <s:tag>Henley</s:tag>
+    <s:tag>Industry of all Nations</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2242573057</id>
+      <title>S</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>14110-W-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2242573057</id>
+      <title>M</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>14110-W-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2242573057</id>
+      <title>L</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>14110-W-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/2242573057</id>
+      <title>XL</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>14110-W-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

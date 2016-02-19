@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://articlemenswear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://articlemenswear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://articlemenswear.com/collections/shoes.atom"/>
+  <title>ARTICLE</title>
+  <updated>2013-10-31T08:21:00-04:00</updated>
+  <author>
+    <name>ARTICLE</name>
+  </author>
+  <entry>
+    <id>http://articlemenswear.com/products/463703937</id>
+    <published>2013-10-31T08:21:00-04:00</published>
+    <updated>2013-10-31T08:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/classic-ring-boot-by-quoddy"/>
+    <title>Classic Ring Boot by Quoddy</title>
+    <s:type>Footwear</s:type>
+    <s:vendor>Quoddy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/1.png?v=1429650380" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Quoddy<br>
+        <strong>Type: </strong>Footwear<br>
+        <strong>Price: </strong>
+            318.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="grid-item large--one-third">
+<div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+<form action="http://www.quoddy.com/cart/add" method="post" enctype="multipart/form-data" id="addToCartForm">
+<div class="description-container">
+<p class="p1">A statement moccasin if there ever was one, from the Chromepak leathers (so stout only strong hands can get a handsewing needle through) to the rugged handsewn upper to the cinch strap closure threaded through welded alloy rings.</p>
+<p class="p1"> </p>
+</div>
+</form>
+</div>
+</div>
+<div class="grid-item large--one-third">
+<div id="photo_container" class="product-photo-container"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boots</s:tag>
+    <s:tag>made in maine</s:tag>
+    <s:tag>quoddy</s:tag>
+    <s:tag>quoddy ring boot</s:tag>
+    <s:tag>ring boot</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/463703937</id>
+      <title>7.5</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>702019-7.5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/463703937</id>
+      <title>8</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>w05301-9</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/463703937</id>
+      <title>8.5</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>w05301-95</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/463703937</id>
+      <title>9</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>w05301-10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/463703937</id>
+      <title>9.5</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>w05301-105</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/463703937</id>
+      <title>10</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>w05301-11</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/463703937</id>
+      <title>11</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>w05301-115</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/463703937</id>
+      <title>11.5</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>w05301-12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://articlemenswear.com/products/463703937</id>
+      <title>12</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>w05301-125</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>
