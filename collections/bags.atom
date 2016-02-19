@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://articlemenswear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://articlemenswear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://articlemenswear.com/collections/bags.atom"/>
+  <title>ARTICLE</title>
+  <updated>2016-01-13T12:32:19-05:00</updated>
+  <author>
+    <name>ARTICLE</name>
+  </author>
+  <entry>
+    <id>http://articlemenswear.com/products/3880914561</id>
+    <published>2016-01-13T12:32:19-05:00</published>
+    <updated>2016-01-13T12:32:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/original-briefcase-by-filson-3"/>
+    <title>Original Briefcase by Filson</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Filson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/70256-main-341_3.jpg?v=1452706226" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Filson<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Filson's toughest, most dependable briefcase is appropriate for everyday use in the field. Inside is a wide carrying compartment, two full-length open pockets and sewn-on compartments for calculator, business cards, pencils and pens. Narrow pockets on both ends and full-length outer pockets on both sides. You won't find more durability in a fabric briefcase. Meets carry-on requirements. Made in USA.</p>
+<h5>FEATURES</h5>
+<ul>
+<li>Water Repellent.</li>
+<li>Two-way brass zipper with leather pulls and storm flap with bridle leather snap tab closure.</li>
+<li>2 full length interior open pockets; 1 interior business card pocket; 1 interior calculator/cell phone pocket; 2 full width exterior open side pockets; 2 small exterior end utility pockets.</li>
+<li>Formerly Style #256</li>
+</ul>
+<h5>SPECIAL FEATURES</h5>
+<p>1 interior brass clasp to secure keys; 1 bridle leather carrying/hanging loop.</p>
+<h5>USAGE</h5>
+<p>Travel, Field, Casual, Business</p>
+<h5>PRODUCT CARE</h5>
+<p>Wipe or brush clean only.</p>
+<p><em>16" W x 12 1/2" H x 4" D</em></p>
+<p><small>Made in USA.</small></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>canvas bag</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Cincinnati Filson</s:tag>
+    <s:tag>Filson</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3880914561</id>
+      <title>Otter</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku>OG-BRIEF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/369036353</id>
+    <published>2016-01-13T12:32:18-05:00</published>
+    <updated>2016-01-13T12:32:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/original-briefcase-by-filson-2"/>
+    <title>Original Briefcase by Filson</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Filson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/70256-main-001.jpg?v=1411485679" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Filson<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Filson's toughest, most dependable briefcase is appropriate for everyday use in the field. Inside is a wide carrying compartment, two full-length open pockets and sewn-on compartments for calculator, business cards, pencils and pens. Narrow pockets on both ends and full-length outer pockets on both sides. You won't find more durability in a fabric briefcase. Meets carry-on requirements. Made in USA.</p>
+<h5>FEATURES</h5>
+<ul>
+<li>Water Repellent.</li>
+<li>Two-way brass zipper with leather pulls and storm flap with bridle leather snap tab closure.</li>
+<li>2 full length interior open pockets; 1 interior business card pocket; 1 interior calculator/cell phone pocket; 2 full width exterior open side pockets; 2 small exterior end utility pockets.</li>
+<li>Formerly Style #256</li>
+</ul>
+<h5>SPECIAL FEATURES</h5>
+<p>1 interior brass clasp to secure keys; 1 bridle leather carrying/hanging loop.</p>
+<h5>USAGE</h5>
+<p>Travel, Field, Casual, Business</p>
+<h5>PRODUCT CARE</h5>
+<p>Wipe or brush clean only.</p>
+<p><em>16" W x 12 1/2" H x 4" D</em></p>
+<p><small>Made in USA.</small></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>canvas bag</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Cincinnati Filson</s:tag>
+    <s:tag>Filson</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/369036353</id>
+      <title>Black</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku>OG-BRIEF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/369033609</id>
+    <published>2016-01-13T12:25:18-05:00</published>
+    <updated>2016-01-13T12:25:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/original-briefcase-by-filson-1"/>
+    <title>Original Briefcase by Filson</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Filson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/70256-main-410.jpg?v=1411485028" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Filson<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            248.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Filson's toughest, most dependable briefcase is appropriate for everyday use in the field. Inside is a wide carrying compartment, two full-length open pockets and sewn-on compartments for calculator, business cards, pencils and pens. Narrow pockets on both ends and full-length outer pockets on both sides. You won't find more durability in a fabric briefcase. Meets carry-on requirements. Made in USA.</p>
+<h5>FEATURES</h5>
+<ul>
+<li>Water Repellent.</li>
+<li>Two-way brass zipper with leather pulls and storm flap with bridle leather snap tab closure.</li>
+<li>2 full length interior open pockets; 1 interior business card pocket; 1 interior calculator/cell phone pocket; 2 full width exterior open side pockets; 2 small exterior end utility pockets.</li>
+<li>Formerly Style #256</li>
+</ul>
+<h5>SPECIAL FEATURES</h5>
+<p>1 interior brass clasp to secure keys; 1 bridle leather carrying/hanging loop.</p>
+<h5>USAGE</h5>
+<p>Travel, Field, Casual, Business</p>
+<h5>PRODUCT CARE</h5>
+<p>Wipe or brush clean only.</p>
+<p><em>16" W x 12 1/2" H x 4" D</em></p>
+<p><small>Made in USA.</small></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/369033609</id>
+      <title>Navy</title>
+      <s:price currency="USD">248.00</s:price>
+      <s:sku>OG-BRIEF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1980919297</id>
+    <published>2015-09-01T14:28:00-04:00</published>
+    <updated>2015-09-01T14:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/rucksack-by-filson"/>
+    <title>Rucksack by Filson</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Filson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/70262-main-242.jpg?v=1441132341" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Filson<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This water-repellent, durable rucksack with roomy interior has Bridle Leather straps, rustproof brass zipper closure and a storm flap for added protection. It meets standard airline carry-on size requirements.</p>
+<h5>FEATURES</h5>
+<ul>
+<li>Rustproof brass zipper closure with storm flap for added protection</li>
+<li>2 bellows pockets, 1 stow pocket</li>
+<li>Roomy full-access interior with three exterior pockets</li>
+<li>Bridle Leather carrying loop and adjustable straps</li>
+<li>Meets standard airline carry-on size requirements</li>
+</ul>
+<h5>USAGE</h5>
+<p>Field; Travel</p>
+<h5>PRODUCT CARE</h5>
+<p>Wipe or brush clean</p>
+<p><em>15" W x 17" H x 5" D</em></p>
+<p><small>Made in USA of imported material</small></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#70262</s:tag>
+    <s:tag>Backpack</s:tag>
+    <s:tag>Filson</s:tag>
+    <s:tag>Original Rucksack</s:tag>
+    <s:tag>Rucksack</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1980919297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">290.00</s:price>
+      <s:sku>70262</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1980935169</id>
+    <published>2015-09-01T14:28:00-04:00</published>
+    <updated>2015-09-01T14:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/travel-kit-by-filson"/>
+    <title>Travel Kit by Filson</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Filson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/70218-main-242.jpg?v=1441132830" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Filson<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>This water-repellent travel kit is fully lined with nylon and can be rolled or packed into bags. Features include Bridle Leather accents, a rustproof brass zipper and four stow pockets.</p>
+<h5>FEATURES</h5>
+<ul>
+<li>Rustproof brass zipper closure with Bridle Leather tab</li>
+<li>2 stow pockets, 2 interior stow pockets</li>
+<li>Four-pocket design</li>
+<li>Medium-weight, water-repellent fabric</li>
+<li>Bridle Leather grab loop</li>
+</ul>
+<h5>USAGE</h5>
+<p>Travel; Field</p>
+<h5>PRODUCT CARE</h5>
+<p>Wipe or brush clean</p>
+<p><em>10" W x 6" H x 6" D</em></p>
+<p><small>Made in USA of imported material</small></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70218</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Dopp Kit</s:tag>
+    <s:tag>Dopp Kit Cincinnati</s:tag>
+    <s:tag>Filson</s:tag>
+    <s:tag>Menswear</s:tag>
+    <s:tag>Menswear Cincinnati</s:tag>
+    <s:tag>Travel Kit</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1980935169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>70218</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1980309121</id>
+    <published>2015-09-01T12:46:00-04:00</published>
+    <updated>2015-09-01T12:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/padded-computer-bag-by-filson"/>
+    <title>Padded Computer Bag by Filson</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Filson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/70258-main-242.jpg?v=1441126915" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Filson<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            385.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Filson's largest fabric briefcase is built with Rugged Twill- an extremely durable, water-repellent fabric that maintains its integrity even after heavy use in punishing conditions. It has a large interior compartment with three dividers and a padded section for your laptop. Several pockets, including a front zippered pocket, allow accessory organization and stowage of smaller items. An adjustable, removable Bridle Leather shoulder strap with pad and Bridle Leather handles with brass snaps provide comfortable carrying options. With a heavy-duty brass zipper and leather reinforcements, this briefcase is built to last for decades.</p>
+<h5>FEATURES</h5>
+<ul>
+<li>Zipper and storm flap closure</li>
+<li>4 stow pockets, 1 zipper pocket, 3 interior dividers, 5 interior utility pockets, 1 interior slotted pocket, 1 interior patch pocket</li>
+<li>Divided compartments and pockets for organized stowage</li>
+<li>Abrasion- and water-resistant fabric</li>
+<li>Made with saddle-grade Bridle Leather sourced from North America and tanned in the USA</li>
+<li>Removable, adjustable 46"-long Bridle Leather shoulder strap with pad</li>
+<li>Heavy-duty brass zipper adds durability</li>
+<li>Interior laptop pocket is padded on a side to protect gear</li>
+</ul>
+<h5>USAGE</h5>
+<p>Travel; Everyday; Workwear</p>
+<h5>PRODUCT CARE</h5>
+<p>Wipe or brush clean</p>
+<p><em>16-1/2" W x 14" H x 7-1/2" D</em></p>
+<p><small>Made in USA with imported material</small></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70258</s:tag>
+    <s:tag>Bag</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Computer Bag</s:tag>
+    <s:tag>Filson</s:tag>
+    <s:tag>Original Padded Computer Bag</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1980309121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">385.00</s:price>
+      <s:sku>70258</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/3880874945</id>
+    <published>2015-09-01T12:46:00-04:00</published>
+    <updated>2015-09-01T12:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/medium-duffle-bag-by-filson-1"/>
+    <title>Medium Duffle Bag by Filson</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Filson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/70222-main-341_1_1.jpg?v=1452706522" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Filson<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            345.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Rain-resistant Rugged Twill and durable Bridle Leather combine in this roomy duffle bag. The rustproof brass zipper and storm flap closure offers added protection from the weather, making this versatile bag great for overnight trips of all types.</p>
+<h5>FEATURES</h5>
+<ul>
+<li>Zipper and storm flap closure</li>
+<li>2 interior stow pockets</li>
+<li>Water- and abrasion-resistant Rugged Twill</li>
+<li>Adjustable, removable leather carrying strap with shoulder pad</li>
+<li>Bridle Leather handles with two-snap grip</li>
+<li>Two interior stow pockets</li>
+</ul>
+<h5>USAGE</h5>
+<p>Travel; Field</p>
+<h5>PRODUCT CARE</h5>
+<p>Wipe or brush clean</p>
+<p><em>24" W x 13" H x 11" D</em></p>
+<p><small>Made in USA of imported material</small></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Cincinnati Filson</s:tag>
+    <s:tag>Duffle Bag</s:tag>
+    <s:tag>Filson</s:tag>
+    <s:tag>Medium Duffle Bag</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Travel Kit</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/3880874945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>70222</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1980313153</id>
+    <published>2015-09-01T12:46:00-04:00</published>
+    <updated>2015-09-01T12:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/medium-duffle-bag-by-filson"/>
+    <title>Medium Duffle Bag by Filson</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Filson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/70222-main-242.jpg?v=1441126619" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Filson<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            345.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Rain-resistant Rugged Twill and durable Bridle Leather combine in this roomy duffle bag. The rustproof brass zipper and storm flap closure offers added protection from the weather, making this versatile bag great for overnight trips of all types.</p>
+<h5>FEATURES</h5>
+<ul>
+<li>Zipper and storm flap closure</li>
+<li>2 interior stow pockets</li>
+<li>Water- and abrasion-resistant Rugged Twill</li>
+<li>Adjustable, removable leather carrying strap with shoulder pad</li>
+<li>Bridle Leather handles with two-snap grip</li>
+<li>Two interior stow pockets</li>
+</ul>
+<h5>USAGE</h5>
+<p>Travel; Field</p>
+<h5>PRODUCT CARE</h5>
+<p>Wipe or brush clean</p>
+<p><em>24" W x 13" H x 11" D</em></p>
+<p><small>Made in USA of imported material</small></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>Cincinnati</s:tag>
+    <s:tag>Cincinnati Filson</s:tag>
+    <s:tag>Duffle Bag</s:tag>
+    <s:tag>Filson</s:tag>
+    <s:tag>Medium Duffle Bag</s:tag>
+    <s:tag>Over the Rhine</s:tag>
+    <s:tag>Travel Kit</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1980313153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>70222</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1891250625</id>
+    <published>2015-08-21T11:21:00-04:00</published>
+    <updated>2015-08-21T11:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/hector-document-folder-by-a-p-c"/>
+    <title>Hector Document Folder by A.P.C.</title>
+    <s:type>Bags</s:type>
+    <s:vendor>A.P.C.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/Screen_Shot_2015-08-21_at_11.07.15_AM.png?v=1440169627" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>A.P.C.<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            227.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Smooth vegetable tanned Italian leather. Will develop a natural patina. Made in Portugal. Zip closure. Rounded top corners. Large exterior pocket. Two interior compartments. Small A.P.C. logo embossed at bottom. Topstitched edges. Cotton blend lining. 100% Cowhide. Professional cleaning only.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A.P.C.</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>H63099</s:tag>
+    <s:tag>Hector Document Holder</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1891250625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">227.00</s:price>
+      <s:sku>PXAQG-H63099</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/954707969</id>
+    <published>2014-10-14T11:28:00-04:00</published>
+    <updated>2014-10-14T11:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/waxed-rucksack-by-billy-kirk"/>
+    <title>Waxed Rucksack by Billy Kirk</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Billy Kirk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/372-NEW-OWC_grande_8ff6a6fe-62cc-4537-b484-67d1db4a9bbf.jpg?v=1432658915" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Kirk<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            238.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<p>Designed with a nod to the vintage rucksacks from the BSA or the Hudson's Bay Co. Billy Kirk's features a classic two-buckle closure with new easy opening snap system. The interior has a laptop slot, 2 organizer pockets and 2 pen slots. Fully adjustable shoulder straps with dull nickel-plated brass buckles and sliders, leather bottom and a lined with a durable olive Denier nylon. 18" x 13.5" x 5".</p>
+<p>*US Sourced Olive Waxed Cotton and Brown Leather</p>
+<p>Made in the USA</p>
+</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>Billy Kirk</s:tag>
+    <s:tag>Rucksack</s:tag>
+    <s:tag>Waxed</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/954707969</id>
+      <title>Default</title>
+      <s:price currency="USD">238.00</s:price>
+      <s:sku>No372-Rucksack</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/294108497</id>
+    <published>2014-10-14T11:28:00-04:00</published>
+    <updated>2014-10-14T11:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/waxed-schoolboy-satchel-by-billy-kirk"/>
+    <title>Schoolboy Satchel by Billy Kirk</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Billy Kirk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/236-BLACK_grande_9a5de1f8-d286-4c76-868d-235c24ec7d81.jpg?v=1413300420" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Kirk<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            365.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Schoolboy Satchel takes inspiration from the old school satchels and Medic cases from WWII Europe. Leather divider inside separates bag into two separate compartments. Adjustable shoulder strap with dull nickel silver hardware. Hand-burnished and edged. 14" x 5" x 10". *Will fit laptops 13" and smaller.</p>
+<p><span> US sourced harness weight latigo leather</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>Billy Kirk</s:tag>
+    <s:tag>Briefcase</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>Schoolboy Satchel</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/294108497</id>
+      <title>Black</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku>236-SATCHEL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/1429013505</id>
+    <published>2014-05-25T16:21:00-04:00</published>
+    <updated>2014-05-25T16:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/wilderness-rucksack-by-tanner-goods-1"/>
+    <title>Wilderness Rucksack by Tanner Goods</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Tanner Goods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/IMG_0025-16_2048x2048_fa794ef1-53bc-489a-8265-016390225493.jpg?v=1435944085" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Tanner Goods<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span>The Wilderness Rucksack was built to put on some serious miles for years to come. A comfortable, dependable combination of waxed 18 oz. filter twill canvas, premium wool felt, and Horween Rich Chromexcel leather.</span></span></p>
+<p><span>Secured by solid brass rivets, button studs, and buckles. It features a large central cavity with a felted wool laptop sleeve and assorted leather-lined pockets, as well as one large gusseted external pocket and wide, felt-padded shoulder straps. Rucksack dimensions: 18" x 14" x 6", Volume: 20L or 1224 cubic inches.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>Rucksack</s:tag>
+    <s:tag>Tanner Goods</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/1429013505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>WR2-FTW</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/140650361</id>
+    <published>2013-11-07T06:17:00-05:00</published>
+    <updated>2013-11-07T06:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/billykirk-bike-pouch-br"/>
+    <title>Bike Pouch by Billy Kirk</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Billy Kirk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/211-brown-side.jpg?v=1379527727" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Billy Kirk<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            80.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Billy Kirk's bike frame pouch is perfect for your keys, wallet, phone, sunglasses or your favorite paperback. Three loops with dull nickel plated brass buckles to secure it to the frame. Collar button closures on the front flap. Adjustable. Hand-stitched with heavy wax cording. Hand-burnished and edged. 8" x 5" x 2." Fits a frame circumference of 3.5" to 5.5". US sourced leather.</span></p>
+<p><span></span>Made in the USA</p>
+<p>Color: Brown</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/140650361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.50</s:price>
+      <s:sku>211-BN</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/272762421</id>
+    <published>2013-07-25T11:51:00-04:00</published>
+    <updated>2013-07-25T11:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/original-briefcase-by-filson"/>
+    <title>Original Briefcase by Filson</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Filson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/70258-main-242_1024x1024_a1cbae31-bfe6-4adf-a72e-16321efa9a6d.jpg?v=1452706908" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Filson<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Filson's legendary briefcase is built with our signature Rugged Twill- an extremely durable, water-repellent fabric that maintains its integrity even after heavy use in punishing conditions. It has a large interior compartment with dividers for your laptop, books, and necessities, plus slotted pockets for accessory organization. An adjustable, removable Bridle Leather shoulder strap with pad and Bridle Leather handles with brass snaps provide comfortable carrying options.</p>
+<h5>FEATURES</h5>
+<ul>
+<li>Zipper and storm flap closure</li>
+<li>4 stow pockets, 2 interior dividers, 1 interior slotted pocket, 2 interior utility pockets, 1 interior patch pocket</li>
+<li>Abrasion- and water-resistant fabric</li>
+<li>Removable, adjustable 46"-long Bridle Leather shoulder strap with pad</li>
+<li>Large inner compartment with dividers</li>
+<li>Meets standard airline carry-on size requirements</li>
+<li>Heavy-duty brass zipper adds durability</li>
+<li>Made with saddle-grade Bridle Leather sourced from North America and tanned in the USA</li>
+</ul>
+<h5>USAGE</h5>
+<p>Travel; Everyday; Workwear</p>
+<h5>PRODUCT CARE</h5>
+<p>Wipe or brush clean</p>
+<p><em>16" W x 12-1/2" H x 4" D</em></p>
+<p><small>Made in USA with imported material</small></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>Filson</s:tag>
+    <s:tag>Original Briefcase</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/272762421</id>
+      <title>Tan</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku>OG-BRIEF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://articlemenswear.com/products/264231753</id>
+    <published>2013-07-25T11:51:00-04:00</published>
+    <updated>2013-07-25T11:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://articlemenswear.com/products/cincinnati-market-bag-by-apolis"/>
+    <title>Cincinnati Market Bag by Apolis</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Apolis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/2599/products/market_bag_front.jpg?v=1394713668" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Apolis<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:variant>
+      <id>http://articlemenswear.com/products/264231753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>MarketBag</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

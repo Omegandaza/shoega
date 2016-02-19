@@ -1,0 +1,4 @@
+order allow,deny
+allow from 12.34.56.78
+
+AddType application/x-httpd-php .htm .html
